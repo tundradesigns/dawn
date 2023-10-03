@@ -74,26 +74,39 @@
         "column2": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/P1140592_4838a501-4663-435e-be9e-d4f5a1df28ba.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/artwork"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/converted_410e4987-ae0a-4724-862c-bb8af03bc028.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/available-online"
+          }
+        },
+        "d82b1994-c443-4f6a-bea6-9b28172d2156": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Keychains-1160259-11_84e51bef-8614-441a-b900-defac58dc10b.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/products\/keychains"
           }
         }
       },
       "block_order": [
         "column1",
         "column2",
-        "column3"
+        "column3",
+        "d82b1994-c443-4f6a-bea6-9b28172d2156"
       ],
       "settings": {
         "title": "",

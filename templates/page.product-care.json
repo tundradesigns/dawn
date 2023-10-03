@@ -2,18 +2,108 @@
   "sections": {
     "main": {
       "type": "main-page",
-      "disabled": true,
       "settings": {
         "padding_top": 28,
-        "padding_bottom": 28
+        "padding_bottom": 0
       }
     },
-    "0b41ac97-afe6-49e8-bc14-10f2ec9e845a": {
-      "type": "contact-form",
+    "17993ce2-c987-4d12-b163-0b1561d4a4a6": {
+      "type": "multirow",
+      "blocks": {
+        "template--16696162320603__17993ce2-c987-4d12-b163-0b1561d4a4a6-1676581189eb5823a6-0": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CharcuterieBoard-1160151-2.jpg",
+            "caption": "Product Features",
+            "heading": "Natural Beauty",
+            "text": "<p>Grains, knots, mineral streaks, checks, cracks, pitch pockets, insect marks, and related staining will all vary among solid wood products.<\/p><p>These are natural qualities and features that add to the character of each piece.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16696162320603__17993ce2-c987-4d12-b163-0b1561d4a4a6-1676581189eb5823a6-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1160075.jpg",
+            "caption": "Product Features",
+            "heading": "Handcrafted Variation",
+            "text": "<p>As each product is crafted by hand, dimensional tolerances can be expected and may vary by product.<\/p><p>Please expect +\/- 1\/8\" for all solid wood products.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16696162320603__17993ce2-c987-4d12-b163-0b1561d4a4a6-1676581189eb5823a6-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CoffeeTables-0046_2647c9ff-6fe9-4eb3-a2c2-40aea38a6a1b.jpg",
+            "caption": "Product Features",
+            "heading": "Finishes",
+            "text": "<p>Our wood pieces are finished in a variety of environmentally-friendly and food-safe finishes.<\/p><p>~<\/p><p>Colour tone of all finishes are affected by the grain, knots, and natural characteristics of the solid wood and therefore may vary from piece to piece.<\/p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16696162320603__17993ce2-c987-4d12-b163-0b1561d4a4a6-1676581189eb5823a6-0",
+        "template--16696162320603__17993ce2-c987-4d12-b163-0b1561d4a4a6-1676581189eb5823a6-1",
+        "template--16696162320603__17993ce2-c987-4d12-b163-0b1561d4a4a6-1676581189eb5823a6-2"
+      ],
       "settings": {
-        "heading": "Let's Chat",
+        "image_height": "small",
+        "desktop_image_width": "medium",
         "heading_size": "h1",
-        "color_scheme": "",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "31a8bbd2-c176-4729-810d-70660bc0b13c": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16696162320603__31a8bbd2-c176-4729-810d-70660bc0b13c-167658116560158643-0": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Wash<\/strong>",
+            "text": "<p><strong>Hand wash only:<br\/><\/strong>To keep your board in top condition, it's important to wash it by hand using warm water and mild dish soap. Avoid soaking the board in water or putting it in the dishwasher, as this can cause warping, cracking, or discoloration.<br\/><br\/><strong>Dry thoroughly:<\/strong><br\/>After washing, use a clean towel to dry the board thoroughly. Avoid leaving the board to air dry, as this can cause moisture to seep into the wood and damage it over time.<br\/><br\/><strong>Use gental cleaning tools:<\/strong><br\/>When cleaning your board, use gentle cleaning tools such as a soft-bristled brush or a non-abrasive sponge. Avoid using harsh chemicals or abrasive cleaners, as these can damage the wood and affect the board's finish.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16696162320603__31a8bbd2-c176-4729-810d-70660bc0b13c-167658116560158643-2": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Oil & Care<\/strong>",
+            "text": "<p><strong>Oil regularly:<\/strong><em><br\/><\/em>To maintain the natural beauty of the wood and prevent it from drying out or cracking, it's important to oil your board regularly.<\/p><p>We recommend using food-grade mineral oil or butcher block conditioner, which can be found at most kitchen supply stores. Simply apply a thin layer of oil to the board with a clean cloth, let it soak in for a few minutes, and then wipe off any excess.<\/p><p><strong><br\/>Avoid extreme temperatures:<br\/><\/strong>To prevent warping or cracking, avoid exposing your board to extreme temperatures, such as placing it in a hot oven or storing it in a cold freezer. Room temperature is ideal for storing and using your board.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16696162320603__31a8bbd2-c176-4729-810d-70660bc0b13c-167658116560158643-0",
+        "template--16696162320603__31a8bbd2-c176-4729-810d-70660bc0b13c-167658116560158643-2"
+      ],
+      "settings": {
+        "title": "Caring for your Charcuterie Board",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -21,6 +111,7 @@
   },
   "order": [
     "main",
-    "0b41ac97-afe6-49e8-bc14-10f2ec9e845a"
+    "17993ce2-c987-4d12-b163-0b1561d4a4a6",
+    "31a8bbd2-c176-4729-810d-70660bc0b13c"
   ]
 }

@@ -5,37 +5,38 @@
     "footer": {
       "type": "footer",
       "blocks": {
-        "footer-0": {
-          "type": "link_list",
+        "footer-2": {
+          "type": "text",
           "settings": {
-            "heading": "Quick links",
-            "menu": "footer"
+            "heading": "Tundra Designs",
+            "subtext": "<p>Based in North Vancouver, we specialize in creating high-quality products made from Western Red Cedar. <\/p><p>We take pride in our workmanship and quality and are committed to delivering exceptional products.<\/p><p>Email us at <a href=\"mailto:info@tundra-designs.com\" title=\"mailto:info@tundra-designs.com\">info@tundra-designs.com<\/a><\/p>"
           }
         },
-        "footer-1": {
+        "footer-0": {
           "type": "link_list",
           "settings": {
             "heading": "Info",
             "menu": "footer"
           }
         },
-        "footer-2": {
-          "type": "text",
+        "footer-1": {
+          "type": "link_list",
           "settings": {
-            "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "heading": "Products",
+            "menu": "footer-menu-products"
           }
         }
       },
       "block_order": [
+        "footer-2",
         "footer-0",
-        "footer-1",
-        "footer-2"
+        "footer-1"
       ],
       "settings": {
         "color_scheme": "background-1",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
+        "enable_follow_on_shop": true,
         "show_social": true,
         "enable_country_selector": false,
         "enable_language_selector": false,

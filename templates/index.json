@@ -30,34 +30,6 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": false,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "background-1",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -122,7 +94,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 4
       }
     },
     "22b814fd-4f4f-4c40-9f95-e824f02116c2": {
@@ -166,15 +138,91 @@
         "color_scheme": "",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
-        "padding_top": 0,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "ff03baf3-8494-4520-8db6-902d6f262970": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Upcycled Materials",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Locally Handcrafted",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Eco-Friendly & Foodsafe Finishes",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4a8f0f43-6e2e-4c13-9b89-16fd9e97bd3e": {
+          "type": "column",
+          "settings": {
+            "title": "Local Artwork",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "03b09172-fa3f-4f4c-8f92-47a9b69171f7": {
+          "type": "column",
+          "settings": {
+            "title": "Custom Creations",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-1",
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-2",
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-3",
+        "4a8f0f43-6e2e-4c13-9b89-16fd9e97bd3e",
+        "03b09172-fa3f-4f4c-8f92-47a9b69171f7"
+      ],
+      "custom_css": [
+
+      ],
+      "settings": {
+        "title": "About Tundra Designs",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
     "rich_text",
-    "featured_collection",
     "multicolumn",
-    "22b814fd-4f4f-4c40-9f95-e824f02116c2"
+    "22b814fd-4f4f-4c40-9f95-e824f02116c2",
+    "ff03baf3-8494-4520-8db6-902d6f262970"
   ]
 }

@@ -177,6 +177,10 @@
                     show_quick_add: section.settings.enable_quick_add,
                     section_id: section.id
                   %}
+                {% if product.variants.size > 1 %}
+  <p>{{ product.variants.size }} options available</p>
+{% endif %}
+
                 </li>
               {%- endfor -%}
             </ul>

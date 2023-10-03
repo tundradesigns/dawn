@@ -124,11 +124,57 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "22b814fd-4f4f-4c40-9f95-e824f02116c2": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16812128436443__22b814fd-4f4f-4c40-9f95-e824f02116c2-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/20230608-Charcuterie_Board-1160321.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/charcuterie-boards"
+          }
+        },
+        "template--16812128436443__22b814fd-4f4f-4c40-9f95-e824f02116c2-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1160087.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/benches-tables"
+          }
+        }
+      },
+      "block_order": [
+        "template--16812128436443__22b814fd-4f4f-4c40-9f95-e824f02116c2-column-1",
+        "template--16812128436443__22b814fd-4f4f-4c40-9f95-e824f02116c2-column-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "rich_text",
     "featured_collection",
-    "multicolumn"
+    "multicolumn",
+    "22b814fd-4f4f-4c40-9f95-e824f02116c2"
   ]
 }

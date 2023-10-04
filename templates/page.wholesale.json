@@ -19,10 +19,9 @@
         },
         "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-button-1": {
           "type": "button",
-          "disabled": true,
           "settings": {
-            "button_label": "",
-            "button_link": "",
+            "button_label": "Inquire for Prices",
+            "button_link": "#id=\"shopify-section-template--16813364838619__0b41ac97-afe6-49e8-bc14-10f2ec9e845a\"",
             "button_style_secondary": false
           }
         }
@@ -116,6 +115,7 @@
     },
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28

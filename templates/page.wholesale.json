@@ -1,5 +1,119 @@
 {
   "sections": {
+    "4ddefc91-beef-4a4d-ba34-5d5a73de7f8c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale",
+            "heading_size": "h1"
+          }
+        },
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to our wholesale product selection! Our beautifully crafted ornaments, unique bookmarks, classic cribbage boards, stylish keychains, and durable coasters are the perfect additions to your store or gift shop. Each item is made with care and designed to last. Shop now and give your customers the gift of quality and style.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-heading-1",
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-text-1",
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Magnet-1160279_0696ec43-1497-4570-9a34-f7109834d7d0.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dfd3a4cd-ab45-4e05-b895-560d630a00ce": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ornament-1160410_421f31b7-8432-4492-a965-a761c6e5c6ea.jpg",
+            "title": "Ornaments",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1150864_a4ef8326-a22b-4710-9f64-0ab9cc91b7fb.jpg",
+            "title": "Bookmarks",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Magnet-1160294_8f1e26a8-efed-458a-a10a-294dc355ffd7.jpg",
+            "title": "Magnets",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "f24d0aff-ce5e-448e-8782-ba83a116c398": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Keychains-1160259-11_84e51bef-8614-441a-b900-defac58dc10b.jpg",
+            "title": "Keychains",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-1",
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-2",
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-3",
+        "f24d0aff-ce5e-448e-8782-ba83a116c398"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "main": {
       "type": "main-page",
       "settings": {
@@ -9,7 +123,6 @@
     },
     "0b41ac97-afe6-49e8-bc14-10f2ec9e845a": {
       "type": "contact-form",
-      "disabled": true,
       "settings": {
         "heading": "Let's Chat",
         "heading_size": "h1",
@@ -20,6 +133,8 @@
     }
   },
   "order": [
+    "4ddefc91-beef-4a4d-ba34-5d5a73de7f8c",
+    "dfd3a4cd-ab45-4e05-b895-560d630a00ce",
     "main",
     "0b41ac97-afe6-49e8-bc14-10f2ec9e845a"
   ]

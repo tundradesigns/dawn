@@ -1,0 +1,22 @@
+  {% for product in collection.products %}
+{% for option in product.options %}
+   {% if option == 'Design' %}
+   {% assign index = forloop.index0 %}
+   {% assign designlist = '' %}
+   {% assign design = '' %}
+   {% for variant in product.variants %}
+   {% capture design %}
+   {{ variant.options[index] }}
+   {% endcapture %}
+
+     {% unless designlist contains design %}
+        <-- INSERT PRODUCT LOOP -->
+        {% capture tempList %}
+      {{designlist | append: design | append: " " }}
+      {% endcapture %}
+      {% assign designlist = tempList %}
+      {% endunless %}
+      {% endfor %}
+    {% endif %}
+  {% endfor %}
+{% endfor %}

@@ -2,6 +2,9 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "custom_css": [
+        "p {font-size: 15px;}"
+      ],
       "settings": {
         "show_collection_description": true,
         "show_collection_image": false,
@@ -10,16 +13,286 @@
     },
     "product-grid": {
       "type": "main-collection-product-grid",
+      "disabled": true,
+      "custom_css": [
+        ".price {display: none;}",
+        ".badge--bottom-left {display: none;}"
+      ],
       "settings": {
         "products_per_page": 16,
-        "columns_desktop": 4,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
+        "enable_quick_add": false,
         "enable_filtering": true,
-        "enable_sorting": true,
+        "filter_type": "horizontal",
+        "enable_sorting": false,
         "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "84b340cc-a82b-4bb0-b9b1-e6195cb39dbb": {
+      "type": "featured-collection",
+      "disabled": true,
+      "custom_css": [
+        ".price {display: none;}",
+        ".badge--bottom-left {display: none;}"
+      ],
+      "settings": {
+        "title": "Fully Custom",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "fully-custom",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fe3d5d4c-3fe5-4e07-89a7-c31164e217b2": {
+      "type": "collage",
+      "blocks": {
+        "dbabf58d-e4b0-4444-8a7a-6017395f7ee1": {
+          "type": "image",
+          "settings": {
+            "image": "{{ collection.metafields.custom.image_2.value }}"
+          }
+        },
+        "template--16690366349531__fe3d5d4c-3fe5-4e07-89a7-c31164e217b2-1679079503c18ce44a-0": {
+          "type": "image",
+          "settings": {
+            "image": "{{ collection.metafields.custom.image_1.value }}"
+          }
+        },
+        "6a37a8b3-4765-4193-a792-10f9086cbd74": {
+          "type": "image",
+          "settings": {
+            "image": "{{ collection.metafields.custom.image_3.value }}"
+          }
+        }
+      },
+      "block_order": [
+        "dbabf58d-e4b0-4444-8a7a-6017395f7ee1",
+        "template--16690366349531__fe3d5d4c-3fe5-4e07-89a7-c31164e217b2-1679079503c18ce44a-0",
+        "6a37a8b3-4765-4193-a792-10f9086cbd74"
+      ],
+      "disabled": true,
+      "settings": {
+        "heading": "{{ collection.title }}",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "83137114-eb04-4299-a040-5e0180656025": {
+      "type": "multicolumn",
+      "blocks": {
+        "0c2051ce-f958-4683-a15d-4528b77b75ad": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P1160087.jpg",
+            "title": "Live Edge Cedar Coffee Table",
+            "text": "<p>$1,070.00<\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/products\/live-edge-cedar-coffee-table"
+          }
+        },
+        "e5a11b26-4448-4b59-8eef-5844d30432e1": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bench-4.jpg",
+            "title": "Live Edge Cedar Bench",
+            "text": "<p>$599.99<\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/products\/live-edge-cedar-bench"
+          }
+        },
+        "template--16714386112731__83137114-eb04-4299-a040-5e0180656025-16790937251d9abb4e-0": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anna_Bench-19-2.jpg",
+            "title": "Custom Benches",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/coffee-table-request-form"
+          }
+        },
+        "template--16714386112731__83137114-eb04-4299-a040-5e0180656025-16790937251d9abb4e-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Coffee_Tables-0083.jpg",
+            "title": "Custom Coffee Tables",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/pages\/coffee-table-request-form"
+          }
+        }
+      },
+      "block_order": [
+        "0c2051ce-f958-4683-a15d-4528b77b75ad",
+        "e5a11b26-4448-4b59-8eef-5844d30432e1",
+        "template--16714386112731__83137114-eb04-4299-a040-5e0180656025-16790937251d9abb4e-0",
+        "template--16714386112731__83137114-eb04-4299-a040-5e0180656025-16790937251d9abb4e-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 20
+      }
+    },
+    "ed003baa-6596-4955-9e05-2183bd9a85dc": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16690366349531__ed003baa-6596-4955-9e05-2183bd9a85dc-16790916337842355d-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anna_Bench-19-2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16690366349531__ed003baa-6596-4955-9e05-2183bd9a85dc-16790916337842355d-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anna_Bench-14.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16690366349531__ed003baa-6596-4955-9e05-2183bd9a85dc-16790916337842355d-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Anna_Bench-4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "b5e00bee-f3cc-452c-a089-fda7c76500f9": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0468-3.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "10a06b6b-2223-4362-b7af-4af30688cb7d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Coffee_Tables-0083.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5551fca6-9a4b-4250-9e7a-828ae33958a3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Bench-4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "a7037813-524d-43d9-b87c-e0731bcf5e68": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/converted_2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "0b6cbd30-b131-4e97-9933-55289b42dca6": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Coffee_Tables-1150540.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1a2a8acc-578a-406d-8e70-3de472fd192d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tundra_Designs-1150378.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16690366349531__ed003baa-6596-4955-9e05-2183bd9a85dc-16790916337842355d-0",
+        "template--16690366349531__ed003baa-6596-4955-9e05-2183bd9a85dc-16790916337842355d-1",
+        "template--16690366349531__ed003baa-6596-4955-9e05-2183bd9a85dc-16790916337842355d-2",
+        "b5e00bee-f3cc-452c-a089-fda7c76500f9",
+        "10a06b6b-2223-4362-b7af-4af30688cb7d",
+        "5551fca6-9a4b-4250-9e7a-828ae33958a3",
+        "a7037813-524d-43d9-b87c-e0731bcf5e68",
+        "0b6cbd30-b131-4e97-9933-55289b42dca6",
+        "1a2a8acc-578a-406d-8e70-3de472fd192d"
+      ],
+      "settings": {
+        "title": "Previously Sold",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -27,6 +300,10 @@
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "84b340cc-a82b-4bb0-b9b1-e6195cb39dbb",
+    "fe3d5d4c-3fe5-4e07-89a7-c31164e217b2",
+    "83137114-eb04-4299-a040-5e0180656025",
+    "ed003baa-6596-4955-9e05-2183bd9a85dc"
   ]
 }

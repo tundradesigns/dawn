@@ -22,6 +22,7 @@
         "products_per_page": 16,
         "columns_desktop": 3,
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
@@ -56,6 +57,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
+        "image_shape": "default",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
@@ -200,7 +202,7 @@
         "template--16690366349531__ed003baa-6596-4955-9e05-2183bd9a85dc-16790916337842355d-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Anna_Bench-4.jpg",
+            "image": "shopify:\/\/shop_images\/P1160087.jpg",
             "title": "",
             "text": "",
             "link_label": "",

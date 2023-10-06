@@ -224,7 +224,7 @@
         "template--16812128436443__162b2e53-d39d-4925-bdc3-ad57622b4741-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/VCM_Awards.jpg",
+            "image": "shopify:\/\/shop_images\/Trish_Photo.jpg",
             "caption": "",
             "heading": "",
             "text": "<h3>See what our customers have to say<\/h3>",
@@ -238,7 +238,7 @@
       ],
       "settings": {
         "image_height": "medium",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "heading_size": "h1",
         "text_style": "body",
         "button_style": "secondary",

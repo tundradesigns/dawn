@@ -233,18 +233,29 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "c2962f10-695c-4f6e-8790-13973402042e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/BC_Hydro_Plaque-7890.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--16712976007387__42cbbf45-0ef2-4a5d-9e4c-3a050b597ae2-1678990489849ced11-0",
-        "6326b41d-b892-4d91-8550-4762f3f5b630"
+        "6326b41d-b892-4d91-8550-4762f3f5b630",
+        "c2962f10-695c-4f6e-8790-13973402042e"
       ],
       "settings": {
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "image_ratio": "square",
+        "columns_desktop": 3,
         "column_alignment": "center",
         "background_style": "none",
         "button_label": "",

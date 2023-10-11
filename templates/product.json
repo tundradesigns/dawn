@@ -55,12 +55,13 @@
           "settings": {
             "heading": "Materials",
             "icon": "leather",
-            "content": "",
+            "content": "<p>{{ product.metafields.my_fields.materials | metafield_tag }}<\/p>",
             "page": ""
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
@@ -73,7 +74,7 @@
           "settings": {
             "heading": "Dimensions",
             "icon": "ruler",
-            "content": "",
+            "content": "<p>{{ product.metafields.my_fields.size | metafield_tag }}<\/p>",
             "page": ""
           }
         },
@@ -82,7 +83,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "",
+            "content": "<p>View product care <a href=\"https:\/\/www.tundra-designs.com\/pages\/product-care\" target=\"_blank\" title=\"https:\/\/www.tundra-designs.com\/pages\/product-care\">here<\/a>.<\/p>",
             "page": ""
           }
         }

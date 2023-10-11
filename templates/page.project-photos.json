@@ -272,13 +272,14 @@
           "type": "column",
           "settings": {
             "title": "★★★★★",
-            "text": "<p><em>\"I was originally looking at rustic shelves for my living room but after seeing their live edge shelves I was in love! I got them made to replace my boring white shelves in my building and Colleen was able to accommodate my very specific measurements. Highly recommend their live edge shelves!\"<\/em><\/p><p><em>- Hailey<\/em><\/p>",
+            "text": "<p><em>\"If you’re looking for something special - as a gift or for yourself - you’ve found it with Tundra Designs. Very responsive, lovely to work with and the quality and uniqueness of the pieces will make you return for more! I can’t say enough good things.\"<\/em><\/p><p><em>- Jennifer<\/em><\/p>",
             "link_label": "",
             "link": ""
           }
         },
         "template--16712976007387__02c0cae7-7b6e-4485-ad6a-498846edce06-1678916970f3146df8-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "★★★★★",
             "text": "<p><em>\"I got a pair shelves and they're beautiful! Super sturdy and unique. Colleen was very helpful in answering all my questions!\"<\/em><\/p><p><em>- Mackenzie<\/em><\/p>",
@@ -288,6 +289,7 @@
         },
         "f0696b9f-c29e-4d2b-be54-68ac451bf88f": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "★★★★★",
             "text": "<p><em>\"We had Tundra Designs create some large live edge shelves for our kitchen renovation as we wanted something to really finish off the build.  Their work was fantastic and the shelves have ended up being the real showstopper in our house…. We couldn’t be happier as they turned out even better than we could have ever hoped for.  High quality work and caring people.  Everything was done perfectly and amazingly fast - they listened to what we wanted and created exactly that!   In fact, we loved them so much, we immediately placed another order to redo shelves in other parts of our home.  Also if you are looking, they partner with another artist who does some amazing naturescapes burned into wood!\"<\/em><\/p><p><em>- Braden<\/em><\/p>",
@@ -302,7 +304,6 @@
         "template--16712976007387__02c0cae7-7b6e-4485-ad6a-498846edce06-1678916970f3146df8-2",
         "f0696b9f-c29e-4d2b-be54-68ac451bf88f"
       ],
-      "disabled": true,
       "settings": {
         "title": "Reviews",
         "heading_size": "h1",

@@ -1,15 +1,5 @@
 {
   "sections": {
-    "main": {
-      "type": "main-list-collections",
-      "settings": {
-        "title": "Shop our Products",
-        "sort": "alphabetical",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "columns_mobile": "2"
-      }
-    },
     "d5f7c9f7-8cae-477a-90f9-66b1fab5c950": {
       "type": "featured-collection",
       "settings": {
@@ -73,7 +63,7 @@
         "0fee850c-d105-4a1f-8b37-3f4f4bb765fa"
       ],
       "settings": {
-        "title": "Collections",
+        "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
         "columns_desktop": 4,
@@ -81,14 +71,72 @@
         "show_view_all": false,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "settings": {
+        "title": "Shop our Products",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "columns_mobile": "2"
+      }
+    },
+    "e620ff34-852e-4dfe-bb93-f5f645d68675": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16812128370907__e620ff34-852e-4dfe-bb93-f5f645d68675-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Customize Your Product",
+            "heading_size": "h1"
+          }
+        },
+        "template--16812128370907__e620ff34-852e-4dfe-bb93-f5f645d68675-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Don't see what you're looking? We're here to assist you in any way we can, from custom products to personalized gifts.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--16812128370907__e620ff34-852e-4dfe-bb93-f5f645d68675-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Now",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16812128370907__e620ff34-852e-4dfe-bb93-f5f645d68675-heading-1",
+        "template--16812128370907__e620ff34-852e-4dfe-bb93-f5f645d68675-text-1",
+        "template--16812128370907__e620ff34-852e-4dfe-bb93-f5f645d68675-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Tanja_Coasters.jpg",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
     }
   },
   "order": [
-    "main",
     "d5f7c9f7-8cae-477a-90f9-66b1fab5c950",
-    "8a05bdab-eaa1-432d-bfc4-2f066a33f535"
+    "8a05bdab-eaa1-432d-bfc4-2f066a33f535",
+    "main",
+    "e620ff34-852e-4dfe-bb93-f5f645d68675"
   ]
 }

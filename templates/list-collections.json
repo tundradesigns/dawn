@@ -56,14 +56,21 @@
         "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-3": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "cribbage-boards"
+          }
+        },
+        "0fee850c-d105-4a1f-8b37-3f4f4bb765fa": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "benches-tables"
           }
         }
       },
       "block_order": [
         "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-1",
         "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-2",
-        "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-3"
+        "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-3",
+        "0fee850c-d105-4a1f-8b37-3f4f4bb765fa"
       ],
       "settings": {
         "title": "Collections",

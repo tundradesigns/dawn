@@ -33,22 +33,22 @@
         "template--16813252870363__76c84960-8e1b-44a4-b126-ac21d433436f-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
+            "heading": "Need more customization?",
+            "heading_size": "h2"
           }
         },
         "template--16813252870363__76c84960-8e1b-44a4-b126-ac21d433436f-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Looking for a more personalized touch? Our team can create custom products and engrave logos, artwork, and more according to your specifications.<\/p>",
             "text_style": "body"
           }
         },
         "template--16813252870363__76c84960-8e1b-44a4-b126-ac21d433436f-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": "",
+            "button_label": "Contact us today!",
+            "button_link": "shopify:\/\/pages\/contact",
             "button_style_secondary": false
           }
         }
@@ -59,7 +59,8 @@
         "template--16813252870363__76c84960-8e1b-44a4-b126-ac21d433436f-button-1"
       ],
       "settings": {
-        "height": "adapt",
+        "image": "shopify:\/\/shop_images\/The_Grape_Escape.jpg",
+        "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",

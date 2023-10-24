@@ -113,6 +113,12 @@
     "show_vendor": false,
     "show_cart_note": false,
     "cart_drawer_collection": "",
+    "checkout_header_image": "shopify:\/\/shop_images\/Main-Homepage-Banner_c3c6fc19-649f-460f-8cc8-b132473e8c2f.png",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Tundra_Designs_Logos_-_Main_RGB-03_ac27be0e-f16c-4c1b-8557-d0f059a35ba8.png",
+    "checkout_logo_position": "left",
+    "checkout_body_background_color": "#345249",
+    "checkout_accent_color": "#345249",
+    "checkout_button_color": "#345249",
     "sections": {
       "main-password-header": {
         "type": "main-password-header",
@@ -155,9 +161,9 @@
           "background": "{{ shop.brand.colors.primary[1].background }}",
           "background_gradient": "",
           "text": "#ffffff",
-          "button": "#fff",
+          "button": "#ffffff",
           "button_label": "#f3f3f3",
-          "secondary_button_label": "#fff",
+          "secondary_button_label": "#ffffff",
           "shadow": "#121212"
         }
       },

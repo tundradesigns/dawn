@@ -32,7 +32,7 @@
       "settings": {
         "logo_position": "middle-left",
         "menu": "2023-menu",
-        "menu_type_desktop": "mega",
+        "menu_type_desktop": "drawer",
         "sticky_header_type": "on-scroll-up",
         "show_line_separator": true,
         "color_scheme": "accent-2",

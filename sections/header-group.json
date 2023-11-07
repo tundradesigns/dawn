@@ -8,20 +8,27 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "FREE Shipping on orders $275+ before tax.",
             "link": ""
+          }
+        },
+        "0c96fa8c-6b25-4216-824f-71f5b6d6403d": {
+          "type": "announcement",
+          "settings": {
+            "text": "Come visit us at the Vancouver Christmas Market November 16 - December 24, 2023.",
+            "link": "https:\/\/www.vancouverchristmasmarket.com\/"
           }
         }
       },
       "block_order": [
-        "announcement-bar-0"
+        "announcement-bar-0",
+        "0c96fa8c-6b25-4216-824f-71f5b6d6403d"
       ],
-      "disabled": true,
       "settings": {
-        "color_scheme": "",
+        "color_scheme": "inverse",
         "show_line_separator": true,
         "show_social": false,
-        "auto_rotate": false,
+        "auto_rotate": true,
         "change_slides_speed": 5,
         "enable_country_selector": false,
         "enable_language_selector": false

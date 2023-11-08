@@ -189,6 +189,15 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "21850aaf-3175-436b-8cf1-b6da75dbbf28": {
+          "type": "column",
+          "settings": {
+            "title": "Satisfaction Guaranteed",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -196,7 +205,8 @@
         "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-2",
         "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-3",
         "4a8f0f43-6e2e-4c13-9b89-16fd9e97bd3e",
-        "03b09172-fa3f-4f4c-8f92-47a9b69171f7"
+        "03b09172-fa3f-4f4c-8f92-47a9b69171f7",
+        "21850aaf-3175-436b-8cf1-b6da75dbbf28"
       ],
       "custom_css": [
 
@@ -211,7 +221,7 @@
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-2",
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,

@@ -90,6 +90,11 @@
             {%- when 'title' -%}
               <div class="product__title" {{ block.shopify_attributes }}>
                 <h1>{{ product.title | escape }}</h1>
+                {% if product.tags contains 'Staff Pick' %}
+      <div style="width:fit-content;padding:4px 12px;background:rgb(219,93,153);border-radius:16px;font-size:16px;color:rgb(255,255,255);font-weight:600;letter-spacing:.1em;">
+        STAFF PICK
+      </div>
+    {% endif %}
                 <a href="{{ product.url }}" class="product__title">
                   <h2 class="h1">
                     {{ product.title | escape }}

@@ -90,11 +90,6 @@
             {%- when 'title' -%}
               <div class="product__title" {{ block.shopify_attributes }}>
                 <h1>{{ product.title | escape }}</h1>
-                {% if product.tags contains 'freeshipping' %}
-      <div style="width:fit-content;padding:4px 12px;background:rgb(219,93,153);border-radius:16px;font-size:16px;color:rgb(255,255,255);font-weight:600;letter-spacing:.1em;">
-        Free Shipping
-      </div>
-    {% endif %}
                 <a href="{{ product.url }}" class="product__title">
                   <h2 class="h1">
                     {{ product.title | escape }}
@@ -123,6 +118,11 @@
                     {{ 'products.product.shipping_policy_html' | t: link: shop.shipping_policy.url }}
                   {%- endif -%}
                 </div>
+                            {% if product.tags contains 'freeshipping' %}
+      <div style="width:fit-content;padding:4px 12px;background:rgb(219,93,153);border-radius:16px;font-size:16px;color:rgb(255,255,255);font-weight:600;letter-spacing:.1em;">
+        Free Shipping
+      </div>
+    {% endif %}
               <div {{ block.shopify_attributes }}>
                 {%- assign product_form_installment_id = 'product-form-installment-' | append: section.id -%}
                 {%- form 'product', product, id: product_form_installment_id, class: 'installment caption-large' -%}

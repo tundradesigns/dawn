@@ -31,6 +31,13 @@
     "8a05bdab-eaa1-432d-bfc4-2f066a33f535": {
       "type": "collection-list",
       "blocks": {
+        "featured_collection_zdkfKR": {
+          "type": "featured_collection",
+          "disabled": true,
+          "settings": {
+            "collection": ""
+          }
+        },
         "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-1": {
           "type": "featured_collection",
           "settings": {
@@ -57,6 +64,7 @@
         }
       },
       "block_order": [
+        "featured_collection_zdkfKR",
         "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-1",
         "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-2",
         "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-3",
@@ -66,7 +74,7 @@
         "title": "",
         "heading_size": "h1",
         "image_ratio": "square",
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "color_scheme": "",
         "show_view_all": false,
         "columns_mobile": "2",

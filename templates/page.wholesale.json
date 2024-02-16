@@ -32,7 +32,7 @@
         "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Magnet-1160279_0696ec43-1497-4570-9a34-f7109834d7d0.jpg",
+        "image": "shopify:\/\/shop_images\/Magnet--26.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -52,7 +52,7 @@
         "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/VancouverPOIOrnament-SampleText.png",
+            "image": "shopify:\/\/shop_images\/Ornament-1160410_8f8cc154-8690-4bc0-9987-ca59ff01f8ba.jpg",
             "title": "Ornaments",
             "text": "",
             "link_label": "",
@@ -62,7 +62,7 @@
         "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/P1150864_a4ef8326-a22b-4710-9f64-0ab9cc91b7fb.jpg",
+            "image": "shopify:\/\/shop_images\/Bookmark-1243.jpg",
             "title": "Bookmarks",
             "text": "",
             "link_label": "",
@@ -72,7 +72,7 @@
         "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Magnet-1160294_8f1e26a8-efed-458a-a10a-294dc355ffd7.jpg",
+            "image": "shopify:\/\/shop_images\/BlackTuskMagnet-1228.jpg",
             "title": "Magnets",
             "text": "",
             "link_label": "",
@@ -82,7 +82,7 @@
         "f24d0aff-ce5e-448e-8782-ba83a116c398": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Keychains-1160259-11_84e51bef-8614-441a-b900-defac58dc10b.jpg",
+            "image": "shopify:\/\/shop_images\/CherryKeychain-1.jpg",
             "title": "Keychains",
             "text": "",
             "link_label": "",

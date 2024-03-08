@@ -20,8 +20,8 @@
         "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Inquire for Prices",
-            "button_link": "#shopify-section-template--16813364838619__0b41ac97-afe6-49e8-bc14-10f2ec9e845a",
+            "button_label": "View Design Catalogue",
+            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0550\/5269\/7819\/files\/Design_Catalogue_2024.pdf?v=1709927301",
             "button_style_secondary": false
           }
         }

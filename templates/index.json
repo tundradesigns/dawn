@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "rich_text": {
@@ -13,7 +22,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to Tundra Designs, a family-run North Vancouver artisan woodworking and laser engraving business that specializes in Western Red Cedar products.<\/p>"
+            "text": "<p>Welcome to Tundra Designs, a family-run North Vancouver artisan woodworking and laser engraving business that specializes in Western Red Cedar products.</p>"
           }
         }
       },
@@ -36,41 +45,41 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/P1150908_39af1f13-2d0d-4c5b-a31f-53cefefd72ed.jpg",
+            "image": "shopify://shop_images/P1150908_39af1f13-2d0d-4c5b-a31f-53cefefd72ed.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/products\/4-pack-cedar-coasters"
+            "link": "shopify://products/4-pack-cedar-coasters"
           }
         },
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/P1140592_4838a501-4663-435e-be9e-d4f5a1df28ba.jpg",
+            "image": "shopify://shop_images/P1140592_4838a501-4663-435e-be9e-d4f5a1df28ba.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/artwork"
+            "link": "shopify://collections/artwork"
           }
         },
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/converted_410e4987-ae0a-4724-862c-bb8af03bc028.jpg",
+            "image": "shopify://shop_images/converted_410e4987-ae0a-4724-862c-bb8af03bc028.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/cribbage-boards"
+            "link": "shopify://collections/cribbage-boards"
           }
         },
         "d82b1994-c443-4f6a-bea6-9b28172d2156": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Keychains-1160276-16_480f1955-bd77-430d-8412-ffdfdcfd6fa5.jpg",
+            "image": "shopify://shop_images/Keychains-1160276-16_480f1955-bd77-430d-8412-ffdfdcfd6fa5.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/products\/keychains"
+            "link": "shopify://products/cherry-keychains"
           }
         }
       },
@@ -103,21 +112,21 @@
         "template--16812128436443__22b814fd-4f4f-4c40-9f95-e824f02116c2-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/20230608-Charcuterie_Board-1160321.jpg",
+            "image": "shopify://shop_images/20230608-Charcuterie_Board-1160321.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/charcuterie-boards"
+            "link": "shopify://collections/charcuterie-boards"
           }
         },
         "template--16812128436443__22b814fd-4f4f-4c40-9f95-e824f02116c2-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/P1160087.jpg",
+            "image": "shopify://shop_images/P1160087.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify:\/\/collections\/benches-tables"
+            "link": "shopify://collections/benches-tables"
           }
         }
       },
@@ -234,12 +243,12 @@
         "template--16812128436443__162b2e53-d39d-4925-bdc3-ad57622b4741-row-2": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Trish_Photo.jpg",
+            "image": "shopify://shop_images/Trish_Photo.jpg",
             "caption": "",
             "heading": "",
-            "text": "<h3>See what our customers have to say<\/h3>",
+            "text": "<h3>See what our customers have to say</h3>",
             "button_label": "Customer Reviews & Photos",
-            "button_link": "shopify:\/\/pages\/custom-projects"
+            "button_link": "shopify://pages/custom-projects"
           }
         }
       },

@@ -28,10 +28,26 @@
             "link": "https://www.vancouverchristmasmarket.com/"
           }
         },
-        "announcement_BTEmQ7": {
+        "announcement_EHXXVM": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Welcome to our store",
+            "link": ""
+          }
+        },
+        "announcement_BTEmQ7": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
+          }
+        },
+        "announcement_ALDqih": {
+          "type": "announcement",
+          "settings": {
+            "text": "Please note Canada Post is currently on strike. There may be delays in receiving orders.",
             "link": ""
           }
         }
@@ -39,7 +55,9 @@
       "block_order": [
         "announcement-bar-0",
         "0c96fa8c-6b25-4216-824f-71f5b6d6403d",
-        "announcement_BTEmQ7"
+        "announcement_EHXXVM",
+        "announcement_BTEmQ7",
+        "announcement_ALDqih"
       ],
       "settings": {
         "color_scheme": "inverse",

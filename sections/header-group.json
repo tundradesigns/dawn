@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.header.name",
   "type": "header",
@@ -14,16 +23,23 @@
         },
         "0c96fa8c-6b25-4216-824f-71f5b6d6403d": {
           "type": "announcement",
-          "disabled": true,
           "settings": {
-            "text": "Come visit us at the Vancouver Christmas Market November 16 - December 24, 2023.",
-            "link": "https:\/\/www.vancouverchristmasmarket.com\/"
+            "text": "Come visit us at the Vancouver Christmas Market November 13 - December 24, 2024.",
+            "link": "https://www.vancouverchristmasmarket.com/"
+          }
+        },
+        "announcement_BTEmQ7": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "link": ""
           }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "0c96fa8c-6b25-4216-824f-71f5b6d6403d"
+        "0c96fa8c-6b25-4216-824f-71f5b6d6403d",
+        "announcement_BTEmQ7"
       ],
       "settings": {
         "color_scheme": "inverse",

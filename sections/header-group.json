@@ -23,6 +23,7 @@
         },
         "0c96fa8c-6b25-4216-824f-71f5b6d6403d": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "Come visit us at the Vancouver Christmas Market November 13 - December 24, 2024.",
             "link": "https://www.vancouverchristmasmarket.com/"

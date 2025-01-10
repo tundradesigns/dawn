@@ -17,6 +17,33 @@
         "color_scheme": "background-1"
       }
     },
+    "rich_text_QtiNtx": {
+      "type": "rich-text",
+      "blocks": {
+        "button_DxRBki": {
+          "type": "button",
+          "settings": {
+            "button_label": "View Custom Project Photos",
+            "button_link": "shopify://pages/custom-projects",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "button_DxRBki"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -33,16 +60,6 @@
         "enable_sorting": false,
         "columns_mobile": "2",
         "padding_top": 24,
-        "padding_bottom": 36
-      }
-    },
-    "page_U3978M": {
-      "type": "page",
-      "settings": {
-        "page": "custom-projects",
-        "heading_size": "h1",
-        "color_scheme": "",
-        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -78,9 +95,9 @@
         "template--16813252870363__76c84960-8e1b-44a4-b126-ac21d433436f-button-1"
       ],
       "settings": {
-        "image": "shopify://shop_images/IMG_8503.heic",
+        "image": "shopify://shop_images/IMG_2128.jpg",
         "height": "small",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
@@ -95,8 +112,8 @@
   },
   "order": [
     "banner",
+    "rich_text_QtiNtx",
     "product-grid",
-    "page_U3978M",
     "76c84960-8e1b-44a4-b126-ac21d433436f"
   ]
 }

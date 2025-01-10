@@ -122,11 +122,11 @@
         "template--16812128436443__22b814fd-4f4f-4c40-9f95-e824f02116c2-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/P1160087.jpg",
+            "image": "shopify://shop_images/IMG_2813.jpg",
             "title": "",
             "text": "",
             "link_label": "",
-            "link": "shopify://collections/benches-tables"
+            "link": "shopify://products/ornaments-2"
           }
         }
       },
@@ -217,9 +217,7 @@
         "03b09172-fa3f-4f4c-8f92-47a9b69171f7",
         "21850aaf-3175-436b-8cf1-b6da75dbbf28"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "title": "About Tundra Designs",
         "heading_size": "h1",

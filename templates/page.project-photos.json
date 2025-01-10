@@ -1,10 +1,17 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
       "type": "main-page",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "padding_top": 28,
         "padding_bottom": 0
@@ -16,7 +23,7 @@
         "92eb73bb-246f-4915-8bca-3d69c360330e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_5478.jpg",
+            "image": "shopify://shop_images/IMG_5478.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -26,7 +33,7 @@
         "b113eeee-2471-423d-ae42-41dfbe125666": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Award_2.jpg",
+            "image": "shopify://shop_images/Award_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -36,7 +43,7 @@
         "b40ccad9-995a-40f7-9437-35cf74589235": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/converted_10.png",
+            "image": "shopify://shop_images/converted_10.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -46,7 +53,7 @@
         "deb89f6e-7df8-47f2-8233-c88fd1291fdc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8503.heic",
+            "image": "shopify://shop_images/IMG_8503.heic",
             "title": "",
             "text": "",
             "link_label": "",
@@ -83,7 +90,7 @@
         "template--16824422990043__8709b27f-ed42-4648-852c-041ed343a6ff-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Tanja_Coasters.jpg",
+            "image": "shopify://shop_images/Tanja_Coasters.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -93,7 +100,7 @@
         "template--16824422990043__8709b27f-ed42-4648-852c-041ed343a6ff-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IWA.jpg",
+            "image": "shopify://shop_images/IWA.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -103,7 +110,7 @@
         "template--16824422990043__8709b27f-ed42-4648-852c-041ed343a6ff-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DCK_Award.jpg",
+            "image": "shopify://shop_images/DCK_Award.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -113,7 +120,7 @@
         "50cf218f-10b1-450d-8656-1e505ca44f2f": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DCK_Award_2.jpg",
+            "image": "shopify://shop_images/DCK_Award_2.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -150,7 +157,7 @@
         "template--16824422990043__6eae057c-be0d-48c9-a399-3fbdf36b9d51-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_8158.heic",
+            "image": "shopify://shop_images/IMG_8158.heic",
             "title": "",
             "text": "",
             "link_label": "",
@@ -160,7 +167,7 @@
         "template--16824422990043__6eae057c-be0d-48c9-a399-3fbdf36b9d51-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/converted_14.png",
+            "image": "shopify://shop_images/converted_14.png",
             "title": "",
             "text": "",
             "link_label": "",
@@ -170,7 +177,7 @@
         "5b81d69b-2953-48ff-ab14-36c9162a5378": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_6012.jpg",
+            "image": "shopify://shop_images/IMG_6012.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -180,7 +187,7 @@
         "cfa75a7b-0bfa-4d2e-b7cc-8f356bc673fc": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_4970.jpg",
+            "image": "shopify://shop_images/IMG_4970.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -217,7 +224,7 @@
         "template--16712976007387__42cbbf45-0ef2-4a5d-9e4c-3a050b597ae2-1678990489849ced11-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/The_Grape_Escape.jpg",
+            "image": "shopify://shop_images/The_Grape_Escape.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -227,7 +234,7 @@
         "6326b41d-b892-4d91-8550-4762f3f5b630": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/VCM_Awards.jpg",
+            "image": "shopify://shop_images/VCM_Awards.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -237,7 +244,7 @@
         "c2962f10-695c-4f6e-8790-13973402042e": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BC_Hydro_Plaque-7890.jpg",
+            "image": "shopify://shop_images/BC_Hydro_Plaque-7890.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -267,6 +274,73 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_Gea3yM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_X7tJYL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2129.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NzpUdr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3730.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JcYBw3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2257.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NzpHaJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8259.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_X7tJYL",
+        "column_NzpUdr",
+        "column_JcYBw3",
+        "column_NzpHaJ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "02c0cae7-7b6e-4485-ad6a-498846edce06": {
       "type": "multicolumn",
       "blocks": {
@@ -274,7 +348,7 @@
           "type": "column",
           "settings": {
             "title": "★★★★★",
-            "text": "<p><em>\"Fantastic experience with Tundra Designs - picked up a beautiful engraved board as a gift. Reached out to Tundra Designs for a personal additional engraving, to which response and service was provided within the hour!! Would recommend and would definitely go back! Support Local!\"<\/em><\/p><p><em>- Juliana<\/em><\/p>",
+            "text": "<p><em>\"Fantastic experience with Tundra Designs - picked up a beautiful engraved board as a gift. Reached out to Tundra Designs for a personal additional engraving, to which response and service was provided within the hour!! Would recommend and would definitely go back! Support Local!\"</em></p><p><em>- Juliana</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -283,7 +357,7 @@
           "type": "column",
           "settings": {
             "title": "★★★★★",
-            "text": "<p><em>\"If you’re looking for something special - as a gift or for yourself - you’ve found it with Tundra Designs. Very responsive, lovely to work with and the quality and uniqueness of the pieces will make you return for more! I can’t say enough good things.\"<\/em><\/p><p><em>- Jennifer<\/em><\/p>",
+            "text": "<p><em>\"If you’re looking for something special - as a gift or for yourself - you’ve found it with Tundra Designs. Very responsive, lovely to work with and the quality and uniqueness of the pieces will make you return for more! I can’t say enough good things.\"</em></p><p><em>- Jennifer</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -293,7 +367,7 @@
           "disabled": true,
           "settings": {
             "title": "★★★★★",
-            "text": "<p><em>\"I got a pair shelves and they're beautiful! Super sturdy and unique. Colleen was very helpful in answering all my questions!\"<\/em><\/p><p><em>- Mackenzie<\/em><\/p>",
+            "text": "<p><em>\"I got a pair shelves and they're beautiful! Super sturdy and unique. Colleen was very helpful in answering all my questions!\"</em></p><p><em>- Mackenzie</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -303,7 +377,7 @@
           "disabled": true,
           "settings": {
             "title": "★★★★★",
-            "text": "<p><em>\"We had Tundra Designs create some large live edge shelves for our kitchen renovation as we wanted something to really finish off the build.  Their work was fantastic and the shelves have ended up being the real showstopper in our house…. We couldn’t be happier as they turned out even better than we could have ever hoped for.  High quality work and caring people.  Everything was done perfectly and amazingly fast - they listened to what we wanted and created exactly that!   In fact, we loved them so much, we immediately placed another order to redo shelves in other parts of our home.  Also if you are looking, they partner with another artist who does some amazing naturescapes burned into wood!\"<\/em><\/p><p><em>- Braden<\/em><\/p>",
+            "text": "<p><em>\"We had Tundra Designs create some large live edge shelves for our kitchen renovation as we wanted something to really finish off the build.  Their work was fantastic and the shelves have ended up being the real showstopper in our house…. We couldn’t be happier as they turned out even better than we could have ever hoped for.  High quality work and caring people.  Everything was done perfectly and amazingly fast - they listened to what we wanted and created exactly that!   In fact, we loved them so much, we immediately placed another order to redo shelves in other parts of our home.  Also if you are looking, they partner with another artist who does some amazing naturescapes burned into wood!\"</em></p><p><em>- Braden</em></p>",
             "link_label": "",
             "link": ""
           }
@@ -339,6 +413,7 @@
     "8709b27f-ed42-4648-852c-041ed343a6ff",
     "6eae057c-be0d-48c9-a399-3fbdf36b9d51",
     "42cbbf45-0ef2-4a5d-9e4c-3a050b597ae2",
+    "multicolumn_Gea3yM",
     "02c0cae7-7b6e-4485-ad6a-498846edce06"
   ]
 }

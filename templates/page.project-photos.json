@@ -17,6 +17,73 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_Gea3yM": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_X7tJYL": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2129.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NzpUdr": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3730.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JcYBw3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2257.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_NzpHaJ": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8259.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_X7tJYL",
+        "column_NzpUdr",
+        "column_JcYBw3",
+        "column_NzpHaJ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "f9945a8f-b230-4834-bb43-d52106c06490": {
       "type": "multicolumn",
       "blocks": {
@@ -274,73 +341,6 @@
         "padding_bottom": 0
       }
     },
-    "multicolumn_Gea3yM": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_X7tJYL": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2129.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_NzpUdr": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3730.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_JcYBw3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_2257.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_NzpHaJ": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_8259.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_X7tJYL",
-        "column_NzpUdr",
-        "column_JcYBw3",
-        "column_NzpHaJ"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 4,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "02c0cae7-7b6e-4485-ad6a-498846edce06": {
       "type": "multicolumn",
       "blocks": {
@@ -409,11 +409,11 @@
   },
   "order": [
     "main",
+    "multicolumn_Gea3yM",
     "f9945a8f-b230-4834-bb43-d52106c06490",
     "8709b27f-ed42-4648-852c-041ed343a6ff",
     "6eae057c-be0d-48c9-a399-3fbdf36b9d51",
     "42cbbf45-0ef2-4a5d-9e4c-3a050b597ae2",
-    "multicolumn_Gea3yM",
     "02c0cae7-7b6e-4485-ad6a-498846edce06"
   ]
 }

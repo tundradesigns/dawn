@@ -151,11 +151,100 @@
         "desktop_content_position": "middle-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "background-1",
         "image_behavior": "none",
         "mobile_content_alignment": "center",
         "stack_images_on_mobile": true,
         "show_text_below": true
+      }
+    },
+    "multicolumn_pqAEWc": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_N8b94Q": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2129.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_qi8G3C": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8259.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yHJMLq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3729.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FfWbbB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DCK_Award.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JFbiMG": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_4970.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_TgURzH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2257.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_N8b94Q",
+        "column_qi8G3C",
+        "column_yHJMLq",
+        "column_FfWbbB",
+        "column_JFbiMG",
+        "column_TgURzH"
+      ],
+      "settings": {
+        "title": "Past Projects",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "circle",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -164,6 +253,7 @@
     "rich_text_QtiNtx",
     "product-grid",
     "76c84960-8e1b-44a4-b126-ac21d433436f",
-    "image_banner_9iDzxD"
+    "image_banner_9iDzxD",
+    "multicolumn_pqAEWc"
   ]
 }

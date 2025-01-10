@@ -94,6 +94,7 @@
         "template--16813252870363__76c84960-8e1b-44a4-b126-ac21d433436f-text-1",
         "template--16813252870363__76c84960-8e1b-44a4-b126-ac21d433436f-button-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/IMG_2128.jpg",
         "height": "small",
@@ -108,12 +109,61 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_9iDzxD": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_w4xXQz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Need more customization?",
+            "heading_size": "h2"
+          }
+        },
+        "text_xBgCCX": {
+          "type": "text",
+          "settings": {
+            "text": "Looking for a more personalized touch? Our team can create custom products and engrave logos, artwork, and more according to your specifications.",
+            "text_style": "body"
+          }
+        },
+        "buttons_TWzct4": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Contact us today!",
+            "button_link_1": "shopify://pages/contact",
+            "button_style_secondary_1": false,
+            "button_label_2": "View Custom Project Photos",
+            "button_link_2": "shopify://pages/custom-projects",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_w4xXQz",
+        "text_xBgCCX",
+        "buttons_TWzct4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/IMG_2129.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "small",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "banner",
     "rich_text_QtiNtx",
     "product-grid",
-    "76c84960-8e1b-44a4-b126-ac21d433436f"
+    "76c84960-8e1b-44a4-b126-ac21d433436f",
+    "image_banner_9iDzxD"
   ]
 }

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "banner": {
@@ -12,7 +21,7 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 24,
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "image_ratio": "square",
         "image_shape": "default",
         "show_secondary_image": true,
@@ -40,17 +49,17 @@
         "template--16812128403675__777b7e4a-7ad7-45ee-800d-d870d8fdaedd-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Don't see what you're looking for? Let us know how we can help!<\/p>"
+            "text": "<p>Don't see what you're looking for? Let us know how we can help!</p>"
           }
         },
         "template--16812128403675__777b7e4a-7ad7-45ee-800d-d870d8fdaedd-button-1": {
           "type": "button",
           "settings": {
             "button_label": "Contact Now",
-            "button_link": "shopify:\/\/pages\/contact",
+            "button_link": "shopify://pages/contact",
             "button_style_secondary": false,
             "button_label_2": "",
-            "button_link_2": "shopify:\/\/pages\/customer-testimonies",
+            "button_link_2": "shopify://pages/customer-testimonies",
             "button_style_secondary_2": false
           }
         }

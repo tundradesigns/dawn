@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "d5f7c9f7-8cae-477a-90f9-66b1fab5c950": {
@@ -10,7 +19,7 @@
         "description_style": "body",
         "collection": "featured",
         "products_to_show": 25,
-        "columns_desktop": 3,
+        "columns_desktop": 4,
         "full_width": false,
         "show_view_all": true,
         "view_all_style": "solid",
@@ -101,7 +110,7 @@
           "type": "button",
           "settings": {
             "button_label": "Shop All Products",
-            "button_link": "shopify:\/\/collections\/available-online",
+            "button_link": "shopify://collections/available-online",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -134,7 +143,7 @@
         "template--16812128370907__e620ff34-852e-4dfe-bb93-f5f645d68675-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Don't see what you're looking? We're here to assist you in any way we can, from custom products to personalized gifts.<\/p>",
+            "text": "<p>Don't see what you're looking? We're here to assist you in any way we can, from custom products to personalized gifts.</p>",
             "text_style": "body"
           }
         },
@@ -142,7 +151,7 @@
           "type": "button",
           "settings": {
             "button_label": "Contact Now",
-            "button_link": "shopify:\/\/pages\/contact",
+            "button_link": "shopify://pages/contact",
             "button_style_secondary": false
           }
         }
@@ -153,7 +162,7 @@
         "template--16812128370907__e620ff34-852e-4dfe-bb93-f5f645d68675-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Tanja_Coasters.jpg",
+        "image": "shopify://shop_images/Tanja_Coasters.jpg",
         "height": "small",
         "desktop_image_width": "medium",
         "layout": "image_first",

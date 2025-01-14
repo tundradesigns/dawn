@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "4ddefc91-beef-4a4d-ba34-5d5a73de7f8c": {
@@ -13,7 +22,7 @@
         "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to our wholesale product selection! Our beautifully crafted ornaments, unique bookmarks, magnets, and stylish keychains are the perfect additions to your store or gift shop. Each item is made with care and designed to last. Shop now and give your customers the gift of quality and style.<\/p>",
+            "text": "<p>Welcome to our wholesale product selection! Our beautifully crafted ornaments, unique bookmarks, magnets, and stylish keychains are the perfect additions to your store or gift shop. Each item is made with care and designed to last. Shop now and give your customers the gift of quality and style.</p>",
             "text_style": "body"
           }
         },
@@ -21,7 +30,7 @@
           "type": "button",
           "settings": {
             "button_label": "View Design Catalogue",
-            "button_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0550\/5269\/7819\/files\/2024_Design_Catalogue_-_FINALpdf.pdf?v=1709930382",
+            "button_link": "https://cdn.shopify.com/s/files/1/0550/5269/7819/files/2024_Design_Catalogue_-_FINALpdf.pdf?v=1709930382",
             "button_style_secondary": false
           }
         }
@@ -32,7 +41,7 @@
         "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Magnet--26.jpg",
+        "image": "shopify://shop_images/Magnet--26.jpg",
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -60,14 +69,14 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
           }
         },
         "button_3JqJiP": {
           "type": "button",
           "settings": {
             "button_label": "Click here for  Wholesale Pricing",
-            "button_link": "shopify:\/\/pages\/wholesale-pricing",
+            "button_link": "shopify://pages/wholesale-pricing",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -95,7 +104,7 @@
         "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Ornament-1160410_8f8cc154-8690-4bc0-9987-ca59ff01f8ba.jpg",
+            "image": "shopify://shop_images/Ornament-1160410_8f8cc154-8690-4bc0-9987-ca59ff01f8ba.jpg",
             "title": "Ornaments",
             "text": "",
             "link_label": "",
@@ -105,7 +114,7 @@
         "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Bookmark-1243.jpg",
+            "image": "shopify://shop_images/Bookmark-1243.jpg",
             "title": "Bookmarks",
             "text": "",
             "link_label": "",
@@ -115,17 +124,17 @@
         "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/BlackTuskMagnet-1228.jpg",
+            "image": "shopify://shop_images/BlackTuskMagnet-1228.jpg",
             "title": "Magnets",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://collections/magnets"
           }
         },
         "f24d0aff-ce5e-448e-8782-ba83a116c398": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CherryKeychain-1.jpg",
+            "image": "shopify://shop_images/CherryKeychain-1.jpg",
             "title": "Keychains",
             "text": "",
             "link_label": "",

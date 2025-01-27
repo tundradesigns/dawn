@@ -31,6 +31,7 @@
         "heading_thkMbJ",
         "text_QWKYR4"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/Tundra_Designs_Wholesale_Product_Collage.jpg",
         "image_overlay_opacity": 20,
@@ -66,7 +67,6 @@
         "heading",
         "text"
       ],
-      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",

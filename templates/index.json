@@ -9,6 +9,42 @@
  */
 {
   "sections": {
+    "image_banner_QCxVwz": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_thkMbJ": {
+          "type": "heading",
+          "settings": {
+            "heading": "Artisan Woodworking  •  Laser Engraving",
+            "heading_size": "h2"
+          }
+        },
+        "text_QWKYR4": {
+          "type": "text",
+          "settings": {
+            "text": "Welcome to Tundra Designs, a family-run North Vancouver artisan woodworking and laser engraving business that specializes in Western Red Cedar products.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "heading_thkMbJ",
+        "text_QWKYR4"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Tundra_Designs_Wholesale_Product_Collage.jpg",
+        "image_overlay_opacity": 20,
+        "image_height": "adapt",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-2",
+        "image_behavior": "fixed",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -30,6 +66,7 @@
         "heading",
         "text"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -271,6 +308,7 @@
     }
   },
   "order": [
+    "image_banner_QCxVwz",
     "rich_text",
     "multicolumn",
     "22b814fd-4f4f-4c40-9f95-e824f02116c2",

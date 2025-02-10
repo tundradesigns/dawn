@@ -183,6 +183,100 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "image_banner_4LfypH": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Tundra_Designs_Wholesale_Product_Collage.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_cgFB7n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3VBCHw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2257.jpg",
+            "title": "Sea to Sky Gondola",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kTXehe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PhotoRoom_20240207_131040_c553a1d7-1143-4d23-81a9-58278a7ea517.jpg",
+            "title": "Indian Arm, Deep Cove",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nUU6Ht": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Magnet--26.jpg",
+            "title": "Lynn Canyon",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3BndFm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Maplewood_Farm.jpg",
+            "title": "Maplewood Farm",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RjMend": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1625.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3VBCHw",
+        "column_kTXehe",
+        "column_nUU6Ht",
+        "column_3BndFm",
+        "column_RjMend"
+      ],
+      "settings": {
+        "title": "Custom Designs",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -190,6 +284,8 @@
     "rich_text_Uc4bhD",
     "dfd3a4cd-ab45-4e05-b895-560d630a00ce",
     "main",
-    "0b41ac97-afe6-49e8-bc14-10f2ec9e845a"
+    "0b41ac97-afe6-49e8-bc14-10f2ec9e845a",
+    "image_banner_4LfypH",
+    "multicolumn_cgFB7n"
   ]
 }

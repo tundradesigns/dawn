@@ -220,6 +220,56 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_CbbnyM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/19F72B19-4F46-41F9-A33C-1C2E0835852E_L0_001-2025-04-02_10_32_17_AM.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tUAda4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1625_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_ha7XB8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/ABB6EAA7-4F81-4A68-B6C2-CA157722FE06_L0_001-2025-04-02_10_32_18_AM.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_MWqNN8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2A4F1DA8-A30D-4513-86A0-EF15F152A600_L0_001-2025-04-02_10_32_19_AM.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_exeqwy": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/A5D1A7B0-4453-418D-8120-3A937FB19FFF_L0_001-2025-04-02_10_32_18_AM.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -228,7 +278,12 @@
         "column_yHJMLq",
         "column_FfWbbB",
         "column_JFbiMG",
-        "column_TgURzH"
+        "column_TgURzH",
+        "column_CbbnyM",
+        "column_tUAda4",
+        "column_ha7XB8",
+        "column_MWqNN8",
+        "column_exeqwy"
       ],
       "settings": {
         "title": "Past Projects",

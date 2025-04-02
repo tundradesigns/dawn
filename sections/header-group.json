@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "announcement_EHXXVM": {
+          "type": "announcement",
+          "settings": {
+            "text": "🍁 Canadian Owned & Operated 🍁 Made in Vancouver 🍁",
+            "link": ""
+          }
+        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -29,14 +36,6 @@
             "link": "https://www.vancouverchristmasmarket.com/"
           }
         },
-        "announcement_EHXXVM": {
-          "type": "announcement",
-          "disabled": true,
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
-        },
         "announcement_BTEmQ7": {
           "type": "announcement",
           "disabled": true,
@@ -47,9 +46,9 @@
         }
       },
       "block_order": [
+        "announcement_EHXXVM",
         "announcement-bar-0",
         "0c96fa8c-6b25-4216-824f-71f5b6d6403d",
-        "announcement_EHXXVM",
         "announcement_BTEmQ7"
       ],
       "settings": {

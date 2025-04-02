@@ -215,7 +215,7 @@
         "columns_mobile": "2",
         "swipe_on_mobile": false,
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "6eae057c-be0d-48c9-a399-3fbdf36b9d51": {

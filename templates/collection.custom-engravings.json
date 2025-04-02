@@ -171,40 +171,20 @@
             "link": ""
           }
         },
+        "column_MWqNN8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/2A4F1DA8-A30D-4513-86A0-EF15F152A600_L0_001-2025-04-02_10_32_19_AM.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_qi8G3C": {
           "type": "column",
           "settings": {
             "image": "shopify://shop_images/IMG_8259.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_yHJMLq": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_3729.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_FfWbbB": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/DCK_Award.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_JFbiMG": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_4970.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -221,20 +201,10 @@
             "link": ""
           }
         },
-        "column_CbbnyM": {
+        "column_exeqwy": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/19F72B19-4F46-41F9-A33C-1C2E0835852E_L0_001-2025-04-02_10_32_17_AM.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_tUAda4": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/IMG_1625_1.jpg",
+            "image": "shopify://shop_images/A5D1A7B0-4453-418D-8120-3A937FB19FFF_L0_001-2025-04-02_10_32_18_AM.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -251,20 +221,50 @@
             "link": ""
           }
         },
-        "column_MWqNN8": {
+        "column_CbbnyM": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/2A4F1DA8-A30D-4513-86A0-EF15F152A600_L0_001-2025-04-02_10_32_19_AM.jpg",
+            "image": "shopify://shop_images/19F72B19-4F46-41F9-A33C-1C2E0835852E_L0_001-2025-04-02_10_32_17_AM.jpg",
             "title": "",
             "text": "",
             "link_label": "",
             "link": ""
           }
         },
-        "column_exeqwy": {
+        "column_JFbiMG": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/A5D1A7B0-4453-418D-8120-3A937FB19FFF_L0_001-2025-04-02_10_32_18_AM.jpg",
+            "image": "shopify://shop_images/IMG_4970.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_yHJMLq": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3729.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_tUAda4": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1625_1.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FfWbbB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/DCK_Award.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -274,16 +274,16 @@
       },
       "block_order": [
         "column_N8b94Q",
-        "column_qi8G3C",
-        "column_yHJMLq",
-        "column_FfWbbB",
-        "column_JFbiMG",
-        "column_TgURzH",
-        "column_CbbnyM",
-        "column_tUAda4",
-        "column_ha7XB8",
         "column_MWqNN8",
-        "column_exeqwy"
+        "column_qi8G3C",
+        "column_TgURzH",
+        "column_exeqwy",
+        "column_ha7XB8",
+        "column_CbbnyM",
+        "column_JFbiMG",
+        "column_yHJMLq",
+        "column_tUAda4",
+        "column_FfWbbB"
       ],
       "settings": {
         "title": "Past Projects",

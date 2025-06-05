@@ -42,7 +42,7 @@
         "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-button-1"
       ],
       "settings": {
-        "image": "shopify://shop_images/Wooden_Engraved_Nametags.jpg",
+        "image": "{{ page.metafields.custom.image.value }}",
         "height": "medium",
         "desktop_image_width": "medium",
         "layout": "text_first",

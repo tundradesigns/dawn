@@ -22,7 +22,7 @@
         "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Welcome to our wholesale product selection! </p><p>Tundra Designs offers a unique line of premium, handcrafted cedar gifts and souvenirs that capture the essence of Vancouver. Our products are 100% Made in Canada, crafted from locally sourced, upcycled Western Red Cedar and Cherry wood in our North Vancouver Workshop </p>",
+            "text": "<p>Welcome to Tundra Designs' wholesale program! We invite retail stores, gift shops, tourism outlets, and corporate buyers across Canada to partner with us and offer a unique line of <strong>premium, handcrafted cedar gifts</strong> and <strong>souvenirs</strong>. Our products capture the essence of Vancouver and the natural beauty of Canada, making them highly desirable for your customers.</p><p>Tundra Designs offers a unique line of premium, handcrafted cedar gifts and souvenirs that capture the essence of Vancouver. Our products are 100% Made in Canada, crafted from locally sourced, upcycled Western Red Cedar and Cherry wood in our North Vancouver Workshop </p>",
             "text_style": "body"
           }
         },
@@ -54,6 +54,42 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_GhGMaW": {
+      "type": "rich-text",
+      "blocks": {
+        "text_hC9kVU": {
+          "type": "text",
+          "settings": {
+            "text": "<h3><strong>Why Choose Tundra Designs for Your Wholesale Products?</strong></h3><p>When you choose Tundra Designs as your <strong>Canadian wholesale supplier</strong>, you're investing in quality, authenticity, and sustainability:</p><p><strong>100% Made in Canada:</strong> Every single product is proudly crafted in our North Vancouver workshop, ensuring exceptional quality and supporting local industry.</p><p><strong>Locally Sourced & Upcycled Materials:</strong> We meticulously handcraft our products from upcycled Western Red Cedar and Cherry wood, highlighting our commitment to environmental responsibility.</p><p><strong>Unique, Handcrafted Designs:</strong> Our exclusive line features intricate <strong>laser-engraved wood ornaments</strong>, <strong>bookmarks</strong>, <strong>magnets</strong>, and <strong>keychains</strong>, perfect for gifting or souvenirs.</p><p><strong>Popular Canadian Themes:</strong> Our designs often showcase beloved Canadian landmarks and natural elements, resonating with locals and tourists alike.</p><p><strong>Reliable Partnership:</strong> We offer a streamlined wholesale process, ensuring consistent product availability and timely delivery for your <strong>bulk orders</strong>.</p><p><strong>Custom Design Capabilities:</strong> Beyond our existing collections, we offer <strong>custom design services</strong> to create unique products featuring your specific local landmarks, brand logos, or exclusive motifs.</p>"
+          }
+        },
+        "button_YYqgkA": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "text_hC9kVU",
+        "button_YYqgkA"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "rich_text_Uc4bhD": {
@@ -282,6 +318,7 @@
   },
   "order": [
     "4ddefc91-beef-4a4d-ba34-5d5a73de7f8c",
+    "rich_text_GhGMaW",
     "rich_text_Uc4bhD",
     "dfd3a4cd-ab45-4e05-b895-560d630a00ce",
     "main",

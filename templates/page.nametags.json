@@ -11,6 +11,7 @@
   "sections": {
     "image_banner_XJMJA3": {
       "type": "image-banner",
+      "disabled": true,
       "name": "t:sections.image-banner.presets.name",
       "settings": {
         "image": "{{ page.metafields.custom.image.value }}",
@@ -59,6 +60,7 @@
         "text_eFKxEi",
         "button_CMREQ4"
       ],
+      "disabled": true,
       "name": "t:sections.rich-text.presets.name",
       "settings": {
         "desktop_content_position": "left",
@@ -104,7 +106,7 @@
       "settings": {
         "image": "{{ page.metafields.custom.image.value }}",
         "height": "medium",
-        "desktop_image_width": "small",
+        "desktop_image_width": "medium",
         "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",

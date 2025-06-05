@@ -1,0 +1,292 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "4ddefc91-beef-4a4d-ba34-5d5a73de7f8c": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale",
+            "heading_size": "h1"
+          }
+        },
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to our wholesale product selection! </p><p>Tundra Designs offers a unique line of premium, handcrafted cedar gifts and souvenirs that capture the essence of Vancouver. Our products are 100% Made in Canada, crafted from locally sourced, upcycled Western Red Cedar and Cherry wood in our North Vancouver Workshop </p>",
+            "text_style": "body"
+          }
+        },
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "View Design Catalogue",
+            "button_link": "https://cdn.shopify.com/s/files/1/0550/5269/7819/files/2024_Design_Catalogue_-_FINALpdf.pdf?v=1709930382",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-heading-1",
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-text-1",
+        "template--16813364838619__4ddefc91-beef-4a4d-ba34-5d5a73de7f8c-button-1"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/Magnet--26.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_Uc4bhD": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_zbECd9": {
+          "type": "heading",
+          "settings": {
+            "heading": "Access Wholesale Pricing",
+            "heading_size": "h1"
+          }
+        },
+        "text_iwRiRf": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_3JqJiP": {
+          "type": "button",
+          "settings": {
+            "button_label": "Click here for  Wholesale Pricing",
+            "button_link": "shopify://pages/wholesale-pricing",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_zbECd9",
+        "text_iwRiRf",
+        "button_3JqJiP"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "dfd3a4cd-ab45-4e05-b895-560d630a00ce": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Ornament-1160410_8f8cc154-8690-4bc0-9987-ca59ff01f8ba.jpg",
+            "title": "Ornaments",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/ornaments"
+          }
+        },
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Bookmark-1243.jpg",
+            "title": "Bookmarks",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/BlackTuskMagnet-1228.jpg",
+            "title": "Magnets",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://collections/magnets"
+          }
+        },
+        "f24d0aff-ce5e-448e-8782-ba83a116c398": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/CherryKeychain-1.jpg",
+            "title": "Keychains",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-1",
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-2",
+        "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-3",
+        "f24d0aff-ce5e-448e-8782-ba83a116c398"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "0b41ac97-afe6-49e8-bc14-10f2ec9e845a": {
+      "type": "contact-form",
+      "disabled": true,
+      "settings": {
+        "heading": "Let's Chat",
+        "heading_size": "h1",
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner_4LfypH": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify://shop_images/Tundra_Designs_Wholesale_Product_Collage.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "multicolumn_cgFB7n": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3VBCHw": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2257.jpg",
+            "title": "Sea to Sky Gondola",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_kTXehe": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PhotoRoom_20240207_131040_c553a1d7-1143-4d23-81a9-58278a7ea517.jpg",
+            "title": "Indian Arm, Deep Cove",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_nUU6Ht": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Magnet--26.jpg",
+            "title": "Lynn Canyon",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3BndFm": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Maplewood_Farm.jpg",
+            "title": "Maplewood Farm",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_RjMend": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_1625.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3VBCHw",
+        "column_kTXehe",
+        "column_nUU6Ht",
+        "column_3BndFm",
+        "column_RjMend"
+      ],
+      "settings": {
+        "title": "Custom Designs",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "portrait",
+        "columns_desktop": 5,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "4ddefc91-beef-4a4d-ba34-5d5a73de7f8c",
+    "rich_text_Uc4bhD",
+    "dfd3a4cd-ab45-4e05-b895-560d630a00ce",
+    "main",
+    "0b41ac97-afe6-49e8-bc14-10f2ec9e845a",
+    "image_banner_4LfypH",
+    "multicolumn_cgFB7n"
+  ]
+}

@@ -73,7 +73,59 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 0
+        "padding_bottom": 28
+      }
+    },
+    "image_banner_Gnm3Re": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_WWMc87": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "text_VHKjTc": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_KVMiqK": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_WWMc87",
+        "text_VHKjTc",
+        "buttons_KVMiqK"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Tundra_Designs_Wholesale_Product_Photo.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
       }
     },
     "multicolumn": {
@@ -112,7 +164,7 @@
         "d82b1994-c443-4f6a-bea6-9b28172d2156": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Keychains-1160276-16_480f1955-bd77-430d-8412-ffdfdcfd6fa5.jpg",
+            "image": "shopify://shop_images/Sea_to_Sky_Gondola_Keychain.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -149,7 +201,7 @@
         "template--16812128436443__22b814fd-4f4f-4c40-9f95-e824f02116c2-column-1": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/20230608-Charcuterie_Board-1160321.jpg",
+            "image": "shopify://shop_images/9F37A291-C99B-4C49-8695-D65F29E3EECA.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -310,6 +362,7 @@
   "order": [
     "image_banner_QCxVwz",
     "rich_text",
+    "image_banner_Gnm3Re",
     "multicolumn",
     "22b814fd-4f4f-4c40-9f95-e824f02116c2",
     "ff03baf3-8494-4520-8db6-902d6f262970",

@@ -257,7 +257,7 @@
             "title": "Family-Run",
             "text": "",
             "link_label": "",
-            "link": ""
+            "link": "shopify://pages/contact"
           }
         },
         "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-3": {
@@ -356,6 +356,65 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multirow_Qj9jFf": {
+      "type": "multirow",
+      "blocks": {
+        "row_mKj9UW": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/A5E214FB-D00F-4191-A342-6211493F4FB5.jpg",
+            "caption": "For Individual Shoppers",
+            "heading": "Shop Our Craft",
+            "text": "<p>Looking for something truly special? Dive into our handcrafted collection of Canadian wood products. They're perfect for thoughtful gifts, adding warmth and character to your home, or simply treating yourself. Each piece brings a bit of Canada's natural beauty right to you.</p>",
+            "button_label": "Explore Our Products",
+            "button_link": "shopify://collections"
+          }
+        },
+        "row_mhtHPR": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Malahat_Skywalk_Souvenirs.jpg",
+            "caption": "For Gift Shops & Retailers",
+            "heading": "Wholesale for Your Business",
+            "text": "<p>Are you a shop owner searching for unique, high-quality Canadian-made products your customers will genuinely love? Tundra Designs offers an exclusive wholesale collection perfect for adding distinctive charm to your inventory. We regularly create custom designs for our wholesale partners.</p><p>We're known for our popular <strong>keychains, magnets, bookmarks, ornaments, and luggage tags!</strong></p>",
+            "button_label": "Learn More",
+            "button_link": "shopify://pages/wholesale"
+          }
+        },
+        "row_UKDedH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DCK_Award.png",
+            "caption": "For Businesses & Brands",
+            "heading": "Corporate & Custom Solutions",
+            "text": "<p>Make a lasting impression with custom-designed wood products from Tundra Designs. Whether it's for employee appreciation, memorable client gifts, unique branded merchandise, or prestigious awards, we partner with businesses of all sizes to create bespoke items that truly reflect your brand's values and commitment to quality.<br/></p>",
+            "button_label": "Request a Custom Quote",
+            "button_link": "shopify://pages/contact"
+          }
+        }
+      },
+      "block_order": [
+        "row_mKj9UW",
+        "row_mhtHPR",
+        "row_UKDedH"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
@@ -365,6 +424,7 @@
     "multicolumn",
     "22b814fd-4f4f-4c40-9f95-e824f02116c2",
     "ff03baf3-8494-4520-8db6-902d6f262970",
-    "162b2e53-d39d-4925-bdc3-ad57622b4741"
+    "162b2e53-d39d-4925-bdc3-ad57622b4741",
+    "multirow_Qj9jFf"
   ]
 }

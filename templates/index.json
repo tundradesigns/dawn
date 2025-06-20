@@ -127,6 +127,149 @@
         "show_text_below": true
       }
     },
+    "multirow_Qj9jFf": {
+      "type": "multirow",
+      "blocks": {
+        "row_mKj9UW": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/A5E214FB-D00F-4191-A342-6211493F4FB5.jpg",
+            "caption": "For Individual Shoppers",
+            "heading": "Shop Our Collections",
+            "text": "<p>Looking for something truly special? Dive into our handcrafted collection of Canadian wood products. They're perfect for thoughtful gifts, adding warmth and character to your home, or simply treating yourself. Each piece brings a bit of Canada's natural beauty right to you.</p>",
+            "button_label": "Explore Our Products",
+            "button_link": "shopify://collections"
+          }
+        },
+        "row_mhtHPR": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Malahat_Skywalk_Souvenirs.jpg",
+            "caption": "For Gift Shops & Retailers",
+            "heading": "Wholesale for Your Business",
+            "text": "<p>Are you a shop owner searching for unique, high-quality Canadian-made products your customers will genuinely love? Tundra Designs offers an exclusive wholesale collection perfect for adding distinctive charm to your inventory. We regularly create custom designs for our wholesale partners.</p><p>We're known for our popular <strong>keychains, magnets, bookmarks, ornaments, and luggage tags!</strong></p>",
+            "button_label": "Learn More",
+            "button_link": "shopify://pages/wholesale"
+          }
+        },
+        "row_UKDedH": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/DCK_Award.png",
+            "caption": "For Businesses & Brands",
+            "heading": "Corporate & Custom Solutions",
+            "text": "<p>Make a lasting impression with custom-designed wood products from Tundra Designs. Whether it's for employee appreciation, memorable client gifts, unique branded merchandise, or prestigious awards, we partner with businesses of all sizes to create bespoke items that truly reflect your brand's values and commitment to quality.<br/></p>",
+            "button_label": "Request a Custom Quote",
+            "button_link": "shopify://pages/contact"
+          }
+        }
+      },
+      "block_order": [
+        "row_mKj9UW",
+        "row_mhtHPR",
+        "row_UKDedH"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h2",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ff03baf3-8494-4520-8db6-902d6f262970": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Upcycled Materials",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-2": {
+          "type": "column",
+          "settings": {
+            "title": "Family-Run",
+            "text": "",
+            "link_label": "",
+            "link": "shopify://pages/contact"
+          }
+        },
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-3": {
+          "type": "column",
+          "settings": {
+            "title": "Eco-Friendly & Foodsafe Finishes",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "4a8f0f43-6e2e-4c13-9b89-16fd9e97bd3e": {
+          "type": "column",
+          "settings": {
+            "title": "Local Artwork",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "03b09172-fa3f-4f4c-8f92-47a9b69171f7": {
+          "type": "column",
+          "settings": {
+            "title": "Custom Creations",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "21850aaf-3175-436b-8cf1-b6da75dbbf28": {
+          "type": "column",
+          "settings": {
+            "title": "Satisfaction Guaranteed",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-1",
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-2",
+        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-3",
+        "4a8f0f43-6e2e-4c13-9b89-16fd9e97bd3e",
+        "03b09172-fa3f-4f4c-8f92-47a9b69171f7",
+        "21850aaf-3175-436b-8cf1-b6da75dbbf28"
+      ],
+      "custom_css": [],
+      "settings": {
+        "title": "About Tundra Designs",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
@@ -239,90 +382,6 @@
         "padding_bottom": 36
       }
     },
-    "ff03baf3-8494-4520-8db6-902d6f262970": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Upcycled Materials",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-2": {
-          "type": "column",
-          "settings": {
-            "title": "Family-Run",
-            "text": "",
-            "link_label": "",
-            "link": "shopify://pages/contact"
-          }
-        },
-        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-3": {
-          "type": "column",
-          "settings": {
-            "title": "Eco-Friendly & Foodsafe Finishes",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "4a8f0f43-6e2e-4c13-9b89-16fd9e97bd3e": {
-          "type": "column",
-          "settings": {
-            "title": "Local Artwork",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "03b09172-fa3f-4f4c-8f92-47a9b69171f7": {
-          "type": "column",
-          "settings": {
-            "title": "Custom Creations",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "21850aaf-3175-436b-8cf1-b6da75dbbf28": {
-          "type": "column",
-          "settings": {
-            "title": "Satisfaction Guaranteed",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-1",
-        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-2",
-        "template--16812128436443__ff03baf3-8494-4520-8db6-902d6f262970-column-3",
-        "4a8f0f43-6e2e-4c13-9b89-16fd9e97bd3e",
-        "03b09172-fa3f-4f4c-8f92-47a9b69171f7",
-        "21850aaf-3175-436b-8cf1-b6da75dbbf28"
-      ],
-      "custom_css": [],
-      "settings": {
-        "title": "About Tundra Designs",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-2",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "162b2e53-d39d-4925-bdc3-ad57622b4741": {
       "type": "multirow",
       "blocks": {
@@ -341,6 +400,7 @@
       "block_order": [
         "template--16812128436443__162b2e53-d39d-4925-bdc3-ad57622b4741-row-2"
       ],
+      "disabled": true,
       "settings": {
         "image_height": "medium",
         "desktop_image_width": "small",
@@ -357,61 +417,56 @@
         "padding_bottom": 36
       }
     },
-    "multirow_Qj9jFf": {
-      "type": "multirow",
+    "multicolumn_hRrExj": {
+      "type": "multicolumn",
       "blocks": {
-        "row_mKj9UW": {
-          "type": "row",
+        "column_6pJL7g": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/A5E214FB-D00F-4191-A342-6211493F4FB5.jpg",
-            "caption": "For Individual Shoppers",
-            "heading": "Shop Our Craft",
-            "text": "<p>Looking for something truly special? Dive into our handcrafted collection of Canadian wood products. They're perfect for thoughtful gifts, adding warmth and character to your home, or simply treating yourself. Each piece brings a bit of Canada's natural beauty right to you.</p>",
-            "button_label": "Explore Our Products",
-            "button_link": "shopify://collections"
+            "title": "",
+            "text": "<p><em>\"Can’t say enough good things! Super friendly people, amazing products - perfect for unique gifts!\"<br/>- Adam S.</em></p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "row_mhtHPR": {
-          "type": "row",
+        "column_k8A98p": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Malahat_Skywalk_Souvenirs.jpg",
-            "caption": "For Gift Shops & Retailers",
-            "heading": "Wholesale for Your Business",
-            "text": "<p>Are you a shop owner searching for unique, high-quality Canadian-made products your customers will genuinely love? Tundra Designs offers an exclusive wholesale collection perfect for adding distinctive charm to your inventory. We regularly create custom designs for our wholesale partners.</p><p>We're known for our popular <strong>keychains, magnets, bookmarks, ornaments, and luggage tags!</strong></p>",
-            "button_label": "Learn More",
-            "button_link": "shopify://pages/wholesale"
+            "title": "Column",
+            "text": "<p><em>\"I found you guys at the Vancouver Christmas Market and am happy to have purchased some of your ornaments and magnets. I was in Vancouver as part of my honeymoon and will bring my purchases back to Virginia. The ornaments will be on our Christmas tree next year. Thank you for giving us a piece of Vancouver to commemorate a special time of our lives. Merry Christmas!\"<br/>- Crystal D.</em></p>",
+            "link_label": "",
+            "link": ""
           }
         },
-        "row_UKDedH": {
-          "type": "row",
+        "column_zMgKXA": {
+          "type": "column",
           "settings": {
-            "image": "shopify://shop_images/DCK_Award.png",
-            "caption": "For Businesses & Brands",
-            "heading": "Corporate & Custom Solutions",
-            "text": "<p>Make a lasting impression with custom-designed wood products from Tundra Designs. Whether it's for employee appreciation, memorable client gifts, unique branded merchandise, or prestigious awards, we partner with businesses of all sizes to create bespoke items that truly reflect your brand's values and commitment to quality.<br/></p>",
-            "button_label": "Request a Custom Quote",
-            "button_link": "shopify://pages/contact"
+            "title": "",
+            "text": "<p><em>\"Colleen and Blake made a wonderful sign for our family cabin. Their service was great. They were patient and understanding of our requests. I cannot recommend them enough and will be a returning customer :)\"<br/>- Alex M.</em></p>",
+            "link_label": "",
+            "link": ""
           }
         }
       },
       "block_order": [
-        "row_mKj9UW",
-        "row_mhtHPR",
-        "row_UKDedH"
+        "column_6pJL7g",
+        "column_k8A98p",
+        "column_zMgKXA"
       ],
-      "name": "t:sections.multirow.presets.name",
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h2",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "",
-        "row_color_scheme": "",
-        "mobile_content_alignment": "left",
+        "title": "Hear From Our Happy Clients",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "View more Customer Reviews & Photos",
+        "button_link": "shopify://pages/custom-projects",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -421,10 +476,11 @@
     "image_banner_QCxVwz",
     "rich_text",
     "image_banner_Gnm3Re",
+    "multirow_Qj9jFf",
+    "ff03baf3-8494-4520-8db6-902d6f262970",
     "multicolumn",
     "22b814fd-4f4f-4c40-9f95-e824f02116c2",
-    "ff03baf3-8494-4520-8db6-902d6f262970",
     "162b2e53-d39d-4925-bdc3-ad57622b4741",
-    "multirow_Qj9jFf"
+    "multicolumn_hRrExj"
   ]
 }

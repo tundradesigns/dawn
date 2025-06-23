@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -28,7 +37,7 @@
         "template--16696170774747__b194d515-e792-494b-a39a-e04643144b53-1676581730471f902f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>From working corporate jobs in sales and marketing, Colleen sought out a blend of creativity and working with her hands. Colleen works behind the scenes to keep the business running including sales, marketing, and client communications. When needed, Colleen does not shy away from getting her hands dirty in the shop! <\/p>",
+            "text": "<p>From working corporate jobs in sales and marketing, Colleen sought out a blend of creativity and working with her hands. Colleen works behind the scenes to keep the business running including sales, marketing, and client communications. When needed, Colleen does not shy away from getting her hands dirty in the shop! </p>",
             "text_style": "body"
           }
         }
@@ -39,7 +48,7 @@
         "template--16696170774747__b194d515-e792-494b-a39a-e04643144b53-1676581730471f902f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/P1080315-2.jpg",
+        "image": "shopify://shop_images/P1080315-2.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -47,6 +56,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -73,7 +83,7 @@
         "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>With a degree in forestry and background in carpentry, Blake has an in-depth understanding of the trees and wood used in your projects. <\/p><p>From small to large custom projects, Blake sources local materials, builds your orders from scratch, and often collaborates with Colleen to develop new products and business ventures.<\/p>",
+            "text": "<p>With a degree in forestry and background in carpentry, Blake has an in-depth understanding of the trees and wood used in your projects. </p><p>From small to large custom projects, Blake sources local materials, builds your orders from scratch, and often collaborates with Colleen to develop new products and business ventures.</p>",
             "text_style": "body"
           }
         }
@@ -84,7 +94,7 @@
         "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Blake-3.jpg",
+        "image": "shopify://shop_images/Blake-3.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "text_first",
@@ -92,6 +102,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -118,7 +129,7 @@
         "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-1": {
           "type": "text",
           "settings": {
-            "text": "<p>As part of our quality control efforts, Tundra will sniff each piece to ensure it’s up to our smell standards. What are our smell standards? You’ll have to ask her as they all smell quite similar to us! <\/p>",
+            "text": "<p>As part of our quality control efforts, Tundra will sniff each piece to ensure it’s up to our smell standards. What are our smell standards? You’ll have to ask her as they all smell quite similar to us! </p>",
             "text_style": "body"
           }
         }
@@ -129,7 +140,7 @@
         "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Tundra.jpg",
+        "image": "shopify://shop_images/Tundra.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -137,6 +148,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "overlap",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
@@ -144,17 +156,111 @@
     },
     "2e41afc4-f484-4d11-b235-718016d78c03": {
       "type": "video",
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "heading": "",
         "heading_size": "h1",
-        "video_url": "https:\/\/youtu.be\/grDFGLh8J6k",
-        "cover_image": "shopify:\/\/shop_images\/Pink_Modern_Makeup_Tutorial_YouTube_Thumbnail.png",
+        "enable_video_looping": false,
+        "video_url": "https://youtu.be/grDFGLh8J6k",
+        "cover_image": "shopify://shop_images/Pink_Modern_Makeup_Tutorial_YouTube_Thumbnail.png",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_K9HfWi": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_ecXGJD": {
+          "type": "heading",
+          "settings": {
+            "heading": "Our Story: Crafting with Passion in North Vancouver",
+            "heading_size": "h1"
+          }
+        },
+        "text_XL4feq": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Welcome to Tundra Designs Canada! We're <strong>Colleen and Blake</strong>, the proud co-founders behind this Canadian-owned and operated company, nestled in the heart of beautiful North Vancouver.</p><p>Our journey began with a shared passion for the natural beauty of <strong>Western Red Cedar</strong> and a vision to create truly unique, high-quality products. Blake, with his deep roots in forestry and a skilled carpentry background, has always been drawn to the integrity of locally sourced materials. Meanwhile, Colleen brings her knack for connection and clear communication to every interaction. We realized that by combining our strengths – Blake's hands-on expertise in crafting and Colleen's dedication to connecting with our customers – we could build something special, right here at home. From those early ideas, Tundra Designs was born, driven by a commitment to <strong>quality, sustainability, and authentic Canadian craftsmanship.</strong></p>",
+            "text_style": "body"
+          }
+        },
+        "button_kXeYqj": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_ecXGJD",
+        "text_XL4feq",
+        "button_kXeYqj"
+      ],
+      "name": "t:sections.image-with-text.presets.name",
+      "settings": {
+        "image": "shopify://shop_images/Tundra_Designs_-_Colleen_and_Blake_Connell_2.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multirow_ndWViH": {
+      "type": "multirow",
+      "blocks": {
+        "row_7jrjJz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Tundra.jpg",
+            "caption": "",
+            "heading": "What We Stand For",
+            "text": "<p>At Tundra Designs, our mission is simple: to create lasting pieces that bring a touch of nature's beauty into your life. We are deeply committed to:</p><ul><li><strong>Local Sourcing:</strong> We meticulously select our Western Red Cedar and other materials right here in Canada, supporting local communities and ensuring the highest quality.</li><li><strong>Handcrafted Excellence:</strong> Every item is carefully made with attention to detail, reflecting our dedication to superior craftsmanship.</li><li><strong>Customer Satisfaction:</strong> Your happiness is our priority. We strive to create products you'll love and provide service that exceeds your expectations.</li></ul><p>And of course, our beloved \"official product sniffer,\" <strong>Tundra</strong>, is always on hand for rigorous quality control – she takes her job very seriously!</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "row_7k6EWz": {
+          "type": "row",
+          "settings": {
+            "image": "shopify://shop_images/Vancouver_Christmas_Market_Vendor_Award.jpg",
+            "caption": "Caption",
+            "heading": "Our Creations & Recognition",
+            "text": "<p>We're proud to offer a diverse range of products, each designed with care. Whether you're looking for a special gift or need bespoke items for your business, you'll find:</p><ul><li>Popular magnets, ornaments, and keychains</li><li>Custom engravings for personalized touches</li><li>Wholesale and corporate services for unique branding opportunities</li></ul><p>We were also honored to receive the <strong>Vancouver Christmas Market's Vendor Ambassador Award in 2024</strong>, recognizing us as the best all-around vendor. This award means a lot to us, as it reflects our dedication to both our craft and our community.</p>",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_7jrjJz",
+        "row_7k6EWz"
+      ],
+      "name": "t:sections.multirow.presets.name",
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-right",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -165,6 +271,8 @@
     "b194d515-e792-494b-a39a-e04643144b53",
     "2ad6c4ef-8871-489b-9c38-cf6fe5938e83",
     "2a650cc6-9815-4a5e-b103-4106c8aef1bf",
-    "2e41afc4-f484-4d11-b235-718016d78c03"
+    "2e41afc4-f484-4d11-b235-718016d78c03",
+    "image_with_text_K9HfWi",
+    "multirow_ndWViH"
   ]
 }

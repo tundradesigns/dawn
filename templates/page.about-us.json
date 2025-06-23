@@ -11,6 +11,7 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 28,
         "padding_bottom": 0
@@ -47,6 +48,7 @@
         "10f29930-abee-4ec2-8627-af5f48e7deaf",
         "template--16696170774747__b194d515-e792-494b-a39a-e04643144b53-1676581730471f902f-1"
       ],
+      "disabled": true,
       "settings": {
         "image": "shopify://shop_images/P1080315-2.jpg",
         "height": "small",
@@ -60,114 +62,6 @@
         "mobile_content_alignment": "left",
         "padding_top": 0,
         "padding_bottom": 0
-      }
-    },
-    "2ad6c4ef-8871-489b-9c38-cf6fe5938e83": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Blake",
-            "heading_size": "h2"
-          }
-        },
-        "f44bf753-d86b-41cd-bbf1-9ad03254883e": {
-          "type": "caption",
-          "settings": {
-            "caption": "co-founder",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>With a degree in forestry and background in carpentry, Blake has an in-depth understanding of the trees and wood used in your projects. </p><p>From small to large custom projects, Blake sources local materials, builds your orders from scratch, and often collaborates with Colleen to develop new products and business ventures.</p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-0",
-        "f44bf753-d86b-41cd-bbf1-9ad03254883e",
-        "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-1"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Blake-3.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "2a650cc6-9815-4a5e-b103-4106c8aef1bf": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Tundra",
-            "heading_size": "h1"
-          }
-        },
-        "38bb1ad8-77ea-497c-9922-6ee8cdf7a5d3": {
-          "type": "caption",
-          "settings": {
-            "caption": "official product sniffer",
-            "text_style": "caption-with-letter-spacing",
-            "text_size": "medium"
-          }
-        },
-        "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>As part of our quality control efforts, Tundra will sniff each piece to ensure it’s up to our smell standards. What are our smell standards? You’ll have to ask her as they all smell quite similar to us! </p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-0",
-        "38bb1ad8-77ea-497c-9922-6ee8cdf7a5d3",
-        "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-1"
-      ],
-      "settings": {
-        "image": "shopify://shop_images/Tundra.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "overlap",
-        "color_scheme": "background-1",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
-    "2e41afc4-f484-4d11-b235-718016d78c03": {
-      "type": "video",
-      "custom_css": [],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https://youtu.be/grDFGLh8J6k",
-        "cover_image": "shopify://shop_images/Pink_Modern_Makeup_Tutorial_YouTube_Thumbnail.png",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
       }
     },
     "image_with_text_K9HfWi": {
@@ -264,15 +158,125 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2ad6c4ef-8871-489b-9c38-cf6fe5938e83": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Blake",
+            "heading_size": "h2"
+          }
+        },
+        "f44bf753-d86b-41cd-bbf1-9ad03254883e": {
+          "type": "caption",
+          "settings": {
+            "caption": "co-founder",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>With a degree in forestry and background in carpentry, Blake has an in-depth understanding of the trees and wood used in your projects. </p><p>From small to large custom projects, Blake sources local materials, builds your orders from scratch, and often collaborates with Colleen to develop new products and business ventures.</p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-0",
+        "f44bf753-d86b-41cd-bbf1-9ad03254883e",
+        "template--16696170774747__2ad6c4ef-8871-489b-9c38-cf6fe5938e83-1676581730471f902f-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Blake-3.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2a650cc6-9815-4a5e-b103-4106c8aef1bf": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Tundra",
+            "heading_size": "h1"
+          }
+        },
+        "38bb1ad8-77ea-497c-9922-6ee8cdf7a5d3": {
+          "type": "caption",
+          "settings": {
+            "caption": "official product sniffer",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>As part of our quality control efforts, Tundra will sniff each piece to ensure it’s up to our smell standards. What are our smell standards? You’ll have to ask her as they all smell quite similar to us! </p>",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-0",
+        "38bb1ad8-77ea-497c-9922-6ee8cdf7a5d3",
+        "template--16696170774747__2a650cc6-9815-4a5e-b103-4106c8aef1bf-1676581730471f902f-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify://shop_images/Tundra.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "overlap",
+        "color_scheme": "background-1",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "2e41afc4-f484-4d11-b235-718016d78c03": {
+      "type": "video",
+      "custom_css": [],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https://youtu.be/grDFGLh8J6k",
+        "cover_image": "shopify://shop_images/Pink_Modern_Makeup_Tutorial_YouTube_Thumbnail.png",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
     "b194d515-e792-494b-a39a-e04643144b53",
+    "image_with_text_K9HfWi",
+    "multirow_ndWViH",
     "2ad6c4ef-8871-489b-9c38-cf6fe5938e83",
     "2a650cc6-9815-4a5e-b103-4106c8aef1bf",
-    "2e41afc4-f484-4d11-b235-718016d78c03",
-    "image_with_text_K9HfWi",
-    "multirow_ndWViH"
+    "2e41afc4-f484-4d11-b235-718016d78c03"
   ]
 }

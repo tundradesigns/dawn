@@ -64,13 +64,27 @@
           "settings": {
             "collection": "cribbage-boards"
           }
+        },
+        "featured_collection_fN9XJj": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bookmarks"
+          }
+        },
+        "featured_collection_rBcJ8n": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
         }
       },
       "block_order": [
         "featured_collection_zdkfKR",
         "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-1",
         "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-2",
-        "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-3"
+        "template--16812128370907__8a05bdab-eaa1-432d-bfc4-2f066a33f535-featured_collection-3",
+        "featured_collection_fN9XJj",
+        "featured_collection_rBcJ8n"
       ],
       "settings": {
         "title": "",
@@ -87,7 +101,6 @@
     },
     "main": {
       "type": "main-list-collections",
-      "disabled": true,
       "settings": {
         "title": "Shop our Products",
         "sort": "alphabetical",

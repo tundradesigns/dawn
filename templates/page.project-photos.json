@@ -90,7 +90,7 @@
         "column_X7tJYL": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IMG_2129.jpg",
+            "image": "shopify://shop_images/IMG_8858.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -133,6 +133,73 @@
         "column_NzpUdr",
         "column_JcYBw3",
         "column_NzpHaJ"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "multicolumn_D7p8mg": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_U9G3bn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2129.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_9ed6yp": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3730.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_j4txVC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2257.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_JLUq6M": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8259.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_U9G3bn",
+        "column_9ed6yp",
+        "column_j4txVC",
+        "column_JLUq6M"
       ],
       "settings": {
         "title": "",
@@ -556,6 +623,7 @@
     "main",
     "multicolumn_dcjNEk",
     "multicolumn_Gea3yM",
+    "multicolumn_D7p8mg",
     "f9945a8f-b230-4834-bb43-d52106c06490",
     "multicolumn_qQifkT",
     "8709b27f-ed42-4648-852c-041ed343a6ff",

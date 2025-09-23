@@ -84,6 +84,73 @@
         "padding_bottom": 0
       }
     },
+    "multicolumn_dcjNEk": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_VbEzDj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2129.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_UXYppB": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_3730.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_3Hq74z": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_2257.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_AmD3jC": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_8259.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_VbEzDj",
+        "column_UXYppB",
+        "column_3Hq74z",
+        "column_AmD3jC"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 4,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
     "f9945a8f-b230-4834-bb43-d52106c06490": {
       "type": "multicolumn",
       "blocks": {
@@ -487,6 +554,7 @@
   },
   "order": [
     "main",
+    "multicolumn_dcjNEk",
     "multicolumn_Gea3yM",
     "f9945a8f-b230-4834-bb43-d52106c06490",
     "multicolumn_qQifkT",

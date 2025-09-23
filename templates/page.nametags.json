@@ -150,7 +150,7 @@
         "column_3QfR7G": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/Vancouver_Christmas_Market_Vendor_Award.jpg",
+            "image": "{{ page.metafields.custom.image.value }}",
             "title": "",
             "text": "",
             "link_label": "",
@@ -160,7 +160,7 @@
         "column_Vwx4nn": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IMG_9160.jpg",
+            "image": "{{ page.metafields.custom.image_2.value }}",
             "title": "",
             "text": "",
             "link_label": "",
@@ -170,7 +170,7 @@
         "column_49tenc": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IMG_9122.jpg",
+            "image": "{{ page.metafields.custom.image_3.value }}",
             "title": "",
             "text": "",
             "link_label": "",

@@ -144,14 +144,60 @@
         "padding_bottom": 28
       }
     },
-    "contact_form_MecjLY": {
-      "type": "contact-form",
-      "name": "t:sections.contact-form.presets.name",
+    "multicolumn_KXNMtd": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_3QfR7G": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vancouver_Christmas_Market_Vendor_Award.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Vwx4nn": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9160.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_49tenc": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9122.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_3QfR7G",
+        "column_Vwx4nn",
+        "column_49tenc"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
       "settings": {
-        "heading": "Contact form",
+        "title": "",
         "heading_size": "h1",
-        "color_scheme": "accent-2",
-        "padding_top": 36,
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
         "padding_bottom": 36
       }
     },
@@ -161,7 +207,7 @@
         "slide_tHxeEE": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/2A4F1DA8-A30D-4513-86A0-EF15F152A600_L0_001-2025-04-02_10_32_19_AM.jpg",
+            "image": "shopify://shop_images/IMG_9160.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -237,16 +283,28 @@
         "slide_NhVqem",
         "slide_gYnF7N"
       ],
+      "disabled": true,
       "name": "t:sections.slideshow.presets.name",
       "settings": {
         "layout": "grid",
-        "slide_height": "medium",
+        "slide_height": "small",
         "slider_visual": "counter",
         "auto_rotate": true,
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "contact_form_MecjLY": {
+      "type": "contact-form",
+      "name": "t:sections.contact-form.presets.name",
+      "settings": {
+        "heading": "Contact form",
+        "heading_size": "h1",
+        "color_scheme": "accent-2",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     }
   },
@@ -256,7 +314,8 @@
     "image_with_text_VawLtD",
     "4ddefc91-beef-4a4d-ba34-5d5a73de7f8c",
     "main",
-    "contact_form_MecjLY",
-    "slideshow_CtyDag"
+    "multicolumn_KXNMtd",
+    "slideshow_CtyDag",
+    "contact_form_MecjLY"
   ]
 }

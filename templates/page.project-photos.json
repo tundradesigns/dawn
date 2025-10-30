@@ -538,6 +538,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_Cwk33E": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Victoria_Parliament_Building_Keychains.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -545,7 +555,8 @@
         "6326b41d-b892-4d91-8550-4762f3f5b630",
         "c2962f10-695c-4f6e-8790-13973402042e",
         "column_9eViK9",
-        "column_CijnnA"
+        "column_CijnnA",
+        "column_Cwk33E"
       ],
       "settings": {
         "title": "",

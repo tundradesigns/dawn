@@ -206,6 +206,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_YPehwV": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Vancouver_Christmas_Market_Vendor_Award.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -214,7 +224,8 @@
         "column_97yh4y",
         "column_YwFnE7",
         "column_rME68J",
-        "column_6KGT89"
+        "column_6KGT89",
+        "column_YPehwV"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {

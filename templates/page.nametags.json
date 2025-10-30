@@ -167,10 +167,40 @@
             "link": ""
           }
         },
-        "column_49tenc": {
+        "column_97yh4y": {
           "type": "column",
           "settings": {
-            "image": "{{ page.metafields.custom.image_3.value }}",
+            "image": "shopify://shop_images/Wolf_Awards.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_YwFnE7": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Award.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rME68J": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Wooden_Cedar_Black_Walnut_Awards.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_6KGT89": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/VCM_Awards.jpg",
             "title": "",
             "text": "",
             "link_label": "",
@@ -181,7 +211,10 @@
       "block_order": [
         "column_3QfR7G",
         "column_Vwx4nn",
-        "column_49tenc"
+        "column_97yh4y",
+        "column_YwFnE7",
+        "column_rME68J",
+        "column_6KGT89"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {

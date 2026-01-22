@@ -90,6 +90,7 @@
         },
         "button_Prectm": {
           "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Contact Us Today",
             "button_link": "shopify://pages/contact",
@@ -115,7 +116,7 @@
         "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
-        "padding_bottom": 36
+        "padding_bottom": 0
       }
     },
     "4ddefc91-beef-4a4d-ba34-5d5a73de7f8c": {
@@ -142,6 +143,34 @@
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
+      }
+    },
+    "176911364032081a91": {
+      "type": "apps",
+      "blocks": {
+        "forms_inline_mbPg9t": {
+          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
+          "settings": {
+            "form_id": "840167",
+            "text_color": "#202020",
+            "button_background_color": "#202020",
+            "button_label_color": "#ffffff",
+            "links_color": "#1878b9",
+            "errors_color": "#e02229",
+            "text_alignment": "center",
+            "form_alignment": "center",
+            "padding_top": 8,
+            "padding_bottom": 24,
+            "padding_right": 40,
+            "padding_left": 45
+          }
+        }
+      },
+      "block_order": [
+        "forms_inline_mbPg9t"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "multicolumn_KXNMtd": {
@@ -360,34 +389,6 @@
         "color_scheme": "accent-2",
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "176911364032081a91": {
-      "type": "apps",
-      "blocks": {
-        "forms_inline_mbPg9t": {
-          "type": "shopify://apps/forms/blocks/inline/8744a304-fcb1-4347-b211-bb6b4759a76a",
-          "settings": {
-            "form_id": "840167",
-            "text_color": "#202020",
-            "button_background_color": "#202020",
-            "button_label_color": "#FFFFFF",
-            "links_color": "#1878B9",
-            "errors_color": "#E02229",
-            "text_alignment": "center",
-            "form_alignment": "center",
-            "padding_top": 8,
-            "padding_bottom": 24,
-            "padding_right": 40,
-            "padding_left": 45
-          }
-        }
-      },
-      "block_order": [
-        "forms_inline_mbPg9t"
-      ],
-      "settings": {
-        "include_margins": true
       }
     }
   },

@@ -69,6 +69,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_CPLf86": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/IMG_9546.jpg",
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -76,7 +86,8 @@
         "column_UXYppB",
         "column_3Hq74z",
         "column_AmD3jC",
-        "column_9mLcNz"
+        "column_9mLcNz",
+        "column_CPLf86"
       ],
       "settings": {
         "title": "",

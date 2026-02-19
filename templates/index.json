@@ -470,6 +470,108 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "multicolumn_CnKLAW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EYWEh8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seaspan-logo-digital-png.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7qkgKH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/covlogo-share.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_f78qzf": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/images_4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8r8873": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PRH-GlobalCorporate-Logo-RGB.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DPjrqK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/WFP_Primary_Logo_Colour_002.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_e7mV8g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Dakeryn_Logo-Horizontal_Dark.svg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dJgFQX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SSG_logo_final-1024x376.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EYWEh8",
+        "column_7qkgKH",
+        "column_f78qzf",
+        "column_8r8873",
+        "column_DPjrqK",
+        "column_e7mV8g",
+        "column_dJgFQX"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<em>Trusted for Premium Custom Branding</em>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 44
+      }
     }
   },
   "order": [
@@ -478,6 +580,7 @@
     "image_banner_Gnm3Re",
     "multirow_Qj9jFf",
     "ff03baf3-8494-4520-8db6-902d6f262970",
+    "multicolumn_CnKLAW",
     "multicolumn",
     "22b814fd-4f4f-4c40-9f95-e824f02116c2",
     "162b2e53-d39d-4925-bdc3-ad57622b4741",

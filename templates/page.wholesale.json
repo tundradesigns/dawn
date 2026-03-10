@@ -161,7 +161,7 @@
         "template--16813364838619__dfd3a4cd-ab45-4e05-b895-560d630a00ce-column-3": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/BlackTuskMagnet-1228.jpg",
+            "image": "shopify://shop_images/Canada_Canadiana_Icon_Magnet_Souvenir.jpg",
             "title": "Magnets",
             "text": "",
             "link_label": "",
@@ -253,8 +253,8 @@
         "column_kTXehe": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/PhotoRoom_20240207_131040_c553a1d7-1143-4d23-81a9-58278a7ea517.jpg",
-            "title": "Indian Arm, Deep Cove",
+            "image": "shopify://shop_images/Harbour_Cruises_Magnet.jpg",
+            "title": "Custom Harbour Cruise Magnet",
             "text": "",
             "link_label": "",
             "link": ""
@@ -283,8 +283,8 @@
         "column_RjMend": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IMG_1625.jpg",
-            "title": "",
+            "image": "shopify://shop_images/Athabasca_Glacier_Souvenir.jpg",
+            "title": "Athabasca Glacier Souvenir",
             "text": "",
             "link_label": "",
             "link": ""

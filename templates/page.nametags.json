@@ -255,6 +255,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_WfwbLM": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Glass_Award.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -265,7 +275,8 @@
         "column_rME68J",
         "column_6KGT89",
         "column_YPehwV",
-        "column_yahWd9"
+        "column_yahWd9",
+        "column_WfwbLM"
       ],
       "name": "t:sections.multicolumn.presets.name",
       "settings": {

@@ -133,7 +133,7 @@
         "row_mKj9UW": {
           "type": "row",
           "settings": {
-            "image": "shopify://shop_images/9F37A291-C99B-4C49-8695-D65F29E3EECA.jpg",
+            "image": "shopify://shop_images/F4D7160C-6090-4C40-96FC-8AD784B076B5.jpg",
             "caption": "For Individual Shoppers",
             "heading": "Shop Our Collections",
             "text": "<p>Looking for something truly special? Dive into our handcrafted collection of Canadian wood products. They're perfect for thoughtful gifts, adding warmth and character to your home, or simply treating yourself. Each piece brings a bit of Canada's natural beauty right to you.</p>",
@@ -268,6 +268,108 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "multicolumn_CnKLAW": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_EYWEh8": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Seaspan-logo-digital-png.webp",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_7qkgKH": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/covlogo-share.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_f78qzf": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/images_4.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_8r8873": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/PRH-GlobalCorporate-Logo-RGB.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_DPjrqK": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/WFP_Primary_Logo_Colour_002.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_e7mV8g": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Dakeryn_Logo-Horizontal_Dark.svg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_dJgFQX": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/SSG_logo_final-1024x376.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_EYWEh8",
+        "column_7qkgKH",
+        "column_f78qzf",
+        "column_8r8873",
+        "column_DPjrqK",
+        "column_e7mV8g",
+        "column_dJgFQX"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "<em>Trusted for Premium Custom Branding</em>",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 44
       }
     },
     "multicolumn": {
@@ -469,108 +571,6 @@
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "multicolumn_CnKLAW": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_EYWEh8": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Seaspan-logo-digital-png.webp",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_7qkgKH": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/covlogo-share.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_f78qzf": {
-          "type": "column",
-          "disabled": true,
-          "settings": {
-            "image": "shopify://shop_images/images_4.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_8r8873": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/PRH-GlobalCorporate-Logo-RGB.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_DPjrqK": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/WFP_Primary_Logo_Colour_002.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_e7mV8g": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/Dakeryn_Logo-Horizontal_Dark.svg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_dJgFQX": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/SSG_logo_final-1024x376.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_EYWEh8",
-        "column_7qkgKH",
-        "column_f78qzf",
-        "column_8r8873",
-        "column_DPjrqK",
-        "column_e7mV8g",
-        "column_dJgFQX"
-      ],
-      "name": "t:sections.multicolumn.presets.name",
-      "settings": {
-        "title": "<em>Trusted for Premium Custom Branding</em>",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 44
       }
     }
   },

@@ -20,6 +20,16 @@
     "multicolumn_dcjNEk": {
       "type": "multicolumn",
       "blocks": {
+        "column_NfeX49": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Columbia_Icefield_Souvenirs.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
         "column_VbEzDj": {
           "type": "column",
           "settings": {
@@ -92,6 +102,7 @@
         }
       },
       "block_order": [
+        "column_NfeX49",
         "column_VbEzDj",
         "column_UXYppB",
         "column_3Hq74z",

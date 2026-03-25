@@ -79,6 +79,16 @@
             "link_label": "",
             "link": ""
           }
+        },
+        "column_bayHCY": {
+          "type": "column",
+          "settings": {
+            "image": "shopify://shop_images/Kitra_Finishing_Samples.heic",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -87,7 +97,8 @@
         "column_3Hq74z",
         "column_AmD3jC",
         "column_9mLcNz",
-        "column_CPLf86"
+        "column_CPLf86",
+        "column_bayHCY"
       ],
       "settings": {
         "title": "",

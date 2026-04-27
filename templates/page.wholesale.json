@@ -92,6 +92,49 @@
         "padding_bottom": 52
       }
     },
+    "rich_text_Y7cWey": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gAC4cF": {
+          "type": "heading",
+          "settings": {
+            "heading": "Wholesale Canadian Souvenirs for Gift Shops",
+            "heading_size": "h1"
+          }
+        },
+        "text_fkADMH": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+          }
+        },
+        "button_kqXxXC": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_gAC4cF",
+        "text_fkADMH",
+        "button_kqXxXC"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "rich_text_Uc4bhD": {
       "type": "rich-text",
       "blocks": {
@@ -319,6 +362,7 @@
   "order": [
     "4ddefc91-beef-4a4d-ba34-5d5a73de7f8c",
     "rich_text_GhGMaW",
+    "rich_text_Y7cWey",
     "rich_text_Uc4bhD",
     "dfd3a4cd-ab45-4e05-b895-560d630a00ce",
     "main",

@@ -186,6 +186,37 @@
         "padding_bottom": 36
       }
     },
+    "rich_text_EDtqzU": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_YfrxBg": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Tundra Designs",
+            "heading_size": "h1"
+          }
+        },
+        "text_efhmhh": {
+          "type": "text",
+          "settings": {
+            "text": "<h4>Tundra Designs was built from a connection to place.</h4><h4>Based in North Vancouver, we create handcrafted wood products inspired by the landscapes around us—from the coastal beauty of Vancouver to the mountain life of Whistler, where we once lived.</h4><h4>What started as a way to capture those experiences has grown into a collection of thoughtfully designed, functional pieces made to last. Every item is crafted from natural materials, with a focus on simplicity, quality, and meaning.</h4><h4>We believe souvenirs should be more than something you bring home—they should be something you keep.</h4>"
+          }
+        }
+      },
+      "block_order": [
+        "heading_YfrxBg",
+        "text_efhmhh"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "ff03baf3-8494-4520-8db6-902d6f262970": {
       "type": "multicolumn",
       "blocks": {
@@ -254,7 +285,7 @@
       ],
       "custom_css": [],
       "settings": {
-        "title": "About Tundra Designs",
+        "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "square",
@@ -579,6 +610,7 @@
     "rich_text",
     "image_banner_Gnm3Re",
     "multirow_Qj9jFf",
+    "rich_text_EDtqzU",
     "ff03baf3-8494-4520-8db6-902d6f262970",
     "multicolumn_CnKLAW",
     "multicolumn",
